@@ -1,0 +1,10 @@
+---
+title: "Music Video: \"Shore leave\" (Tom Waits Big Time Movie Cover)"
+date: 2021-10-06 00:00:00 
+permalink: /2021/10/music-video-shore-leave-tom-waits-big.html
+thumbnail: https://img.youtube.com/vi/TD9yVmD5NWM/hqdefault.jpg
+excerpt: "Our re-imagined animated experimental rock cover of the song \"Shore Leave\" by Tom Waits."
+tags: ["cover", "shore-leave", "video", "videospage", "music-video"]
+---
+
+<h3 style="text-align: left;">This is our re-imagined animated experimental rock cover of the song "Shore Leave" by Tom Waits.</h3><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/TD9yVmD5NWM" type="text/html" width="640"></iframe></p><p style="text-align: left;">This version of the song is based on a performance from the <b>Tom Waits</b> movie <a href="https://en.wikipedia.org/wiki/Big_Time_(1988_film)" rel="nofollow" target="_blank">Big Time</a>.</p><p style="text-align: left;">If you've been following our <a href="https://youtube.com/lorenzosmusic" rel="nofollow" target="_blank">YouTube channel</a> you may have seen the animated shorts we've been posting for this as it was being made.</p><p style="text-align: left;">Subscribe to Lorenzo's Music on YouTube - <a href="https://youtube.com/lorenzosmusic" rel="nofollow" target="_blank">https://youtube.com/lorenzosmusic</a></p><p style="text-align: left;">I was animating the song one line at a time with the open-source software <a href="https://www.blender.org/" target="_blank">Blender</a> using its <b>grease pencil tool</b> for the 2D animation design and posting them as YouTube Shorts as they were being animated.</p><p style="text-align: left;">You can check out how the whole idea for this project started here -&nbsp;<a href="https://www.lorenzosmusic.com/2021/09/i-started-with-simple-beat-and-it.html">I STARTED WITH A SIMPLE BEAT AND IT TURNED INTO SOMETHING BIGGER...</a></p><p style="text-align: left;"><br /></p>

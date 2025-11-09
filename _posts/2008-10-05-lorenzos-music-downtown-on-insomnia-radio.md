@@ -1,0 +1,8 @@
+---
+title: "Lorenzo’s Music: Downtown on Insomnia Radio"
+date: 2008-10-05 00:00:00 
+permalink: /2008/10/lorenzos-music-downtown-on-insomnia.html
+thumbnail: http://up.mento.info/screen/218/1223171677-92e2bcc9194db244f7353b03668d640e0c768a9f.png
+---
+
+<img alt="http://up.mento.info/screen/218/1223171677-92e2bcc9194db244f7353b03668d640e0c768a9f.png" src="http://up.mento.info/screen/218/1223171677-92e2bcc9194db244f7353b03668d640e0c768a9f.png" align="left" border="0" /> Last month our song <span style="font-style: italic;">"Downtown"</span> was featured on the <span style="text-decoration: underline; font-weight: bold;">Insomnia Radio Network</span> here's what they had to say:<br /><div>  <blockquote cite="Lorenzo’s Music: Downtown : Insomnia Radio: Indie Music Network"><span style="font-style: italic;">“Downtown”</span> is a fantastic piece of work that makes me feel like I’m listening to a long lost track from The English Beat. Instead of the standard ska horns, you are going to hear some oft-neglected saxophone punctuated with some upbeat ska guitar &amp; drum “pick-it-ups”, all overlayed with the distinct vocals of <span style="font-weight: bold;">Tom Ray</span> and some brilliant harmonization and frenzied instrumental execution throughout.</blockquote>  <p class="citation">    <cite cite="http://insomniaradio.net/2008/09/04/lorenzos-music-downtown/">      <a href="http://insomniaradio.net/2008/09/04/lorenzos-music-downtown/">Lorenzo’s Music: Downtown : Insomnia Radio: Indie Music Network</a>    </cite>  </p> </div>click the link to hear this and more from other artists

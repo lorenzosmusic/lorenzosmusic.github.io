@@ -1,0 +1,8 @@
+---
+title: "Tom's personal podcast project featured on the Free Music Archive"
+date: 2011-05-29 00:00:00 
+permalink: /2011/05/tom-personal-podcast-project-featured.html
+tags: ["blog", "podcast"]
+---
+
+Sure I make music under creative commons licenses, but I like to talk about it too.<br /><br />Last year I started a podcast called <a href="http://www.musicmanumit.com/">Music Manumit</a> with <b>Doug Whitfield</b>, another CC music enthusiast, that was part talking to musicians and others involved in the <a class="zem_slink" href="http://creativecommons.org/" rel="homepage" title="Creative Commons">Creative Commons</a> movement and part playing music released using it. It's fun to do and I get to meet a lot of really cool people because of it. We've even talked with&nbsp;<b>Eric Steuer</b>, Creative Director at <b>Creative Commons</b> and Board member of <a class="zem_slink" href="http://cashmusic.org/" rel="homepage" title="CASH Music">CASH Music</a>.<br /><br />Well, one of my favorite sources of music in the realm is the <a href="http://freemusicarchive.org/">freemusicarchive.org</a> run by Jason Sigal of <a class="zem_slink" href="http://www.wfmu.org/" rel="homepage" title="WFMU">WFMU</a>. And recently we were made curators for music on the site to add more CC Music artists to it ourselves. So I'm pretty psyched about that and just thought I'd share. There's a lot of good music out there owned by the artists and in a sense, by the fans.<br />

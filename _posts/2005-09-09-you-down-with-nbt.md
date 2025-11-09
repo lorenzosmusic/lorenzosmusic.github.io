@@ -1,0 +1,8 @@
+---
+title: "You down with n.b.t.?"
+date: 2005-09-09 00:00:00 
+permalink: /2005/09/you-down-with-nbt.html
+thumbnail: http://www.neverbeenthawed.com/splash_01.jpg
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.neverbeenthawed.com/splash_01.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;" src="http://www.neverbeenthawed.com/splash_01.jpg" alt="" border="0" /></a>If you're in the Madison area head on down to the <a href="http://www.orpheumtheatre.net/">Orpheum Theatre</a> and see the movie <a href="http://neverbeenthawed.com/"><span style="font-weight: bold; font-style: italic;">nbt - Never Been Thawed</span></a>.<br /><br />Why am I telling you this? Well, not only is it a funny movie featuring avid <a href="http://neverbeenthawed.com/mfeec/">frozen entree enthusiast's</a>, a metal band turned <a href="http://neverbeenthawed.com/christers/">Christian rock</a> to cash in and the <a href="http://neverbeenthawed.com/nochoicecafe/">pro life coffee shop</a> they play at. But our very own bass player <span style="font-style: italic; font-weight: bold;">Chris Boeger</span> is in it as Wade, the referee for a rousing game of highway alphabet.<br /><br />So if you get a chance go and see it. And if your not in the Madison area maybe you could find it with your favorite P2P program. Not that we would condone such a thing ;)

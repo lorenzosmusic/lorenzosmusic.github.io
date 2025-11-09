@@ -1,0 +1,10 @@
+---
+title: "\"Just in case\" (Live in studio)"
+date: 2023-03-08 00:00:00 
+permalink: /2023/03/just-in-case-live-in-studio.html
+thumbnail: https://img.youtube.com/vi/H_11d48c94o/hqdefault.jpg
+excerpt: "A live studio performance of the song Just in case from the Spaghetti Mid-Western EP"
+tags: ["video", "Just in case", "live-video", "spaghetti mid-western"]
+---
+
+<p style="text-align: left;">Here is a clip song from a live stream show we did on our <a href="https://www.youtube.com/lorenzosmusic">YouTube Channel</a>.</p><h2 style="text-align: left;">Just in case (Live in studio)</h2><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/H_11d48c94o" type="text/html" width="640"></iframe></p><p style="text-align: left;">This is one of the songs from an hour-long set list we played on YouTube showcasing songs from our <b>Rom-Comm Mixtape</b>, <b>Spaghetti Mid-Western EP</b>, and some of our recent singles.<span></span></p><!--more--><p></p><p style="text-align: left;">One of the songs we played was this one from our <a href="https://www.lorenzosmusic.com/2020/02/spaghetti-mid-western-ep.html">Spaghetti Mid-Western EP called "Just in case"</a>. </p><p style="text-align: left;">You can watch the full video of the show here - <a href="https://www.lorenzosmusic.com/2022/12/lorenzos-music-live-in-studio.html">LORENZO'S MUSIC LIVE IN STUDIO PERFORMANCE - DEC 14, 2022</a></p><div class="tomsbox"><h2 style="text-align: center;">Don't forget!</h2><p>Want to see more clips in the future, subscribe to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel!</a></p><p>Would like to watch our live streams follow us on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch Channel!</a></p></div><p><br /></p>

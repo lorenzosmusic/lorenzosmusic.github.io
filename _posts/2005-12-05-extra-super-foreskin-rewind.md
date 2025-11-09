@@ -1,0 +1,8 @@
+---
+title: "Extra Super Foreskin Rewind"
+date: 2005-12-05 00:00:00 
+permalink: /2005/12/extra-super-foreskin-rewind.html
+thumbnail: http://music.podshow.com/music/producers/prodphotos/pmrlogo150.jpg
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://music.podshow.com/music/producers/prodphotos/pmrlogo150.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 150px;" src="http://music.podshow.com/music/producers/prodphotos/pmrlogo150.jpg" alt="" border="0" /></a>The folks over at <a href="http://music.podshow.com/">music.podshow.com</a> have a rewind show called <a href="http://rewind.podshow.com/">PodShow Music Rewind</a>, where some of their hosts choose a weekly barrage of music for you to listen to. And this week, Big Mike  from the <a href="http://www.extrasuperactionshow.com/">Extra Super Action Show</a> featured our song "Too Late Now" from our new <a href="http://www.lorenzosmusic.com/store.html">album</a>.<br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://libsyn.com/podcasts/twomenwithforeskin/images/3534.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 150px;" src="http://libsyn.com/podcasts/twomenwithforeskin/images/3534.jpg" alt="" border="0" /></a>Meanwhile, over at the <a href="http://twomenwithforeskin.libsyn.com/index.php?post_id=31331">Two Men With Foreskin Podcast</a>, one of them fell down some stairs and they recorded what happened in the emergency room and decided to play our song "Down The Stairway" when it was over.

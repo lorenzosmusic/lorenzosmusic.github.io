@@ -1,0 +1,10 @@
+---
+title: "Play something 80s new wave-ish (live stream clip)"
+date: 2023-03-01 00:00:00 
+permalink: /2023/03/play-something-80s-new-wave-ish-live.html
+thumbnail: https://img.youtube.com/vi/fl_dvXf54ho/hqdefault.jpg
+excerpt: "Tom asks the band to try and play something in an 80s new wave style live in the studio"
+tags: ["studio", "songwriting", "live-video"]
+---
+
+<p>Here is a clip from one of our live songwriting sessions on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch channel</a>. We just turn on the camera and try out ideas and see where they take us.</p><p>This is a clip from one of those sessions we posted to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel</a>.</p><h2 style="text-align: left;">Play something 80s new wave-ish (live stream clip)</h2><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/fl_dvXf54ho" type="text/html" width="640"></iframe></p><p style="text-align: left;">Tom, Cliff, Eric, and Rob were in the studio during a live-stream songwriting session.<span></span></p><!--more--><p></p><p style="text-align: left;">Tom asks the band to try and play something in an 80s new wave style.&nbsp;</p><p style="text-align: left;">So we decided to try it out live in the studio to see what we came up with.</p><div class="tomsbox"><h2 style="text-align: center;">Don't forget!</h2><p>Want to see more clips in the future, subscribe to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel!</a></p><p>Would like to watch our live streams follow us on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch Channel!</a></p></div><p><br /></p>

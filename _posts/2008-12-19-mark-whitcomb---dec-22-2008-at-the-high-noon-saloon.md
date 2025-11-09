@@ -1,0 +1,12 @@
+---
+title: "Mark Whitcomb - Dec. 22, 2008 at the High Noon Saloon"
+date: 2008-12-19 00:00:00 
+permalink: /2008/12/mark-whitcomb-dec-22-2008-at-high-noon.html
+thumbnail: http://media.decider.com/assets/images/events/performer/29984/mark_whitcomb_625x300_jpg_595x325_crop_upscale_q85.jpg
+---
+
+<div class="separator" style="clear: both; text-align: left;"><a href="http://media.decider.com/assets/images/events/performer/29984/mark_whitcomb_625x300_jpg_595x325_crop_upscale_q85.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img align="left" border="0" height="108" src="http://media.decider.com/assets/images/events/performer/29984/mark_whitcomb_625x300_jpg_595x325_crop_upscale_q85.jpg" width="200" /></a></div>Dec. 22, 2008<br />
+High Noon Saloon<br />
+21 and over<br />
+$5<br />
+<blockquote><span class="Apple-style-span" style="font-size: small;"><span class="Apple-style-span" style="font-weight: bold;">Mark Whitcomb</span> has left his imprint on a lot of Madison-made records as co-owner and engineer at DNA Studios, and he also lends his guitar chops to local band <span class="Apple-style-span" style="font-weight: bold;">Lorenzo’s Music</span>. Here, he’ll play a solo set with an acoustic guitar and some beats and loops, and Lorenzo’s lead singer <span class="Apple-style-span" style="font-weight: bold;">Tom Ray</span> will join him to sing some of that band’s songs. Whitcomb describes his own originals as “neo-soul” with an improvisational bent, “more Ray LaMontagne or Nick Drake than [obvious Lorenzo’s Music influence] Tom Waits.” Former Madisonian <span class="Apple-style-span" style="font-weight: bold;">Anna Laube</span> returns from California to release her new album <span class="Apple-style-span" style="font-style: italic;">Pool All The Love * Pool All The Knowledge</span>, which follows up the pleasant, intimate singer-songwriter tunes on 2006's Outta My Head. Also playing: <span class="Apple-style-span" style="font-weight: bold;">Zachary Scot Johnson</span>.</span></blockquote><a href="http://madison.decider.com/events/mark-whitcomb-anna-laube-and-zachary-scot-johnson,30031/">http://madison.decider.com/events/mark-whitcomb-anna-laube-and-zachary-scot-johnson,30031/</a>

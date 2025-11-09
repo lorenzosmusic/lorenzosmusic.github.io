@@ -1,0 +1,10 @@
+---
+title: "\"With you\" Songwriting Track Breakdown: Ardour Recording Session Live Stream"
+date: 2023-07-26 00:00:00 
+permalink: /2020/12/with-you-songwriting-track-breakdown.html
+thumbnail: https://img.youtube.com/vi/hVfz46GZ7pk/hqdefault.jpg
+excerpt: "A live stream from our YouTube channel to show the progression of the song \"With you\" by Lorenzo's Music"
+tags: ["ardour", "github", "with-you", "songwriting", "linux", "blog", "ubuntu-studio"]
+---
+
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/hVfz46GZ7pk" width="320" youtube-src-id="hVfz46GZ7pk"></iframe></div><p>This is a video from a live stream I did on YouTube, you can subscribe to our YouTube channel here <a href="https://youtube.com/lorenzosmusic" rel="nofollow" target="_blank">https://youtube.com/lorenzosmusic</a></p><p>While I was going over the final mix of our song "<a href="https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html">With you</a>" I did a live stream on our YouTube channel to show the progression of the song from track to track.<span></span></p><!--more--><p></p><p>I start with the simple midi track I wrote for the original idea of the song.&nbsp;</p><p>Then I look over what the other guys in the band interpreted from that midi file idea through each instrument track they recorded as we shared our sessions back and forth on <b>GitHub</b>.&nbsp;</p><p>This is a look at how all these ideas were put together to create the final landscape of this song.</p><p>This whole song was created using only <b>open-source tools and software</b> and written remotely using a method we created using <b>GitHub for music</b>.</p><p>You can <a href="https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html">stream the song "With you" on Spotify and other platforms here</a>.</p><p><br /></p>

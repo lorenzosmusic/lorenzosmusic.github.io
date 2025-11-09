@@ -1,0 +1,10 @@
+---
+title: "Play an organ chug (Live Stream Clip)"
+date: 2022-10-22 00:00:00 
+permalink: /2022/10/play-organ-chug-live-stream-clip.html
+thumbnail: https://img.youtube.com/vi/tWuDzvrTVpg/hqdefault.jpg
+excerpt: "a live-stream songwriting session. I started out with an organ chug idea for lack of a better thing to call it."
+tags: ["studio", "songwriting", "live-video"]
+---
+
+<p>Here is a clip from one of our live songwriting sessions on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch channel</a>. We just turn on the camera and try out ideas and see where they take us.</p><p>Here is a clip from one of those sessions we posted to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel</a>.</p><h2 style="text-align: left;">Play an organ chug (Live Stream Clip)</h2><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/tWuDzvrTVpg" type="text/html" width="640"></iframe></p><p style="text-align: left;">The band is in the studio during a live-stream songwriting session. I started out with an organ chug idea for lack of a better thing to call it.<span></span></p><!--more--><p></p><p style="text-align: left;">It was just a four beat organ chord chug idea and I asked the band to play along to see what they come up with.</p><p style="text-align: left;">I think I liked the guitar strum Eric came up with the most.</p><p style="text-align: left;">-Tom</p><div class="tomsbox"><h2 style="text-align: center;">Don't forget!</h2><p>Want to see more clips in the future, subscribe to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel!</a></p><p>Would like to watch our live streams follow us on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch Channel!</a></p></div><p style="text-align: left;"><br /></p>

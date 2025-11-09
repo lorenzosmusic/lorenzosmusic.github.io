@@ -1,0 +1,8 @@
+---
+title: "Tom&#39;s creative commons music podcast - Music Manumit"
+date: 2010-07-11 00:00:00 
+permalink: /2010/07/tom-creative-commons-music-podcast.html
+tags: ["tom", "blog", "music manumit"]
+---
+
+In my continued effort to raise awareness of the benefits of licensing music under <a href="http://creativecommons.org/">creative commons</a>, I've started, with&nbsp;<a href="http://douglasawh.wordpress.com/">Doug Whitfield</a> (another creative commons and open source&nbsp;enthusiast)&nbsp;a talk/music podcast that showcases music that uses it.<br /><br /><a href="http://musicmanumit.blogspot.com/">Music Manumit</a>: A podcast in 2 parts.<br /><br /><b>One podcast</b>, just features <b>music</b> that we have discovered under creative commons license.<br /><i>Like this one</i> -&nbsp;<a href="http://musicmanumit.blogspot.com/2010/07/music-manumit-music-only-podcast-100706.html">Music Manumit-Music Only Podcast | 100706</a><br /><br /><b>The second podcast</b>, we <b>talk</b> about how creative commons is being used by artists and the people who use it. And sometimes just online music in general.<br /><i>One of the shows</i> - &nbsp;<a href="http://musicmanumit.blogspot.com/2010/07/music-manumit-podcast-hey-thats-my.html">Music Manumit Podcast - Hey That's My Stuff! | 100710</a> we talk with&nbsp;<a href="http://rasterweb.net/raster">Pete Prodoehl</a>, a photographer and musician who had one of his works used in the media without proper attribution.<br /><br />Have a listen and if you have some creative commons music you'd like us to play send us the file&nbsp;<a href="http://musicmanumit.blogspot.com/">using the soundcloud widget</a> on the Music Manumit site.

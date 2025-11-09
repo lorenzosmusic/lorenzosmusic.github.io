@@ -1,0 +1,8 @@
+---
+title: "Album Lovers Hand-Make Musical Objects"
+date: 2010-11-02 00:00:00 
+permalink: /2010/11/album-lovers-hand-make-musical-objects.html
+tags: ["blog"]
+---
+
+Really inspired and creative music lovers over there at createdigitalmusic.com<br /><br /><object width="400" height="300"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fp_kirn%2Fsets%2F72157625031790985%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fp_kirn%2Fsets%2F72157625031790985%2F&amp;set_id=72157625031790985&amp;jump_to="> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"> <param name="allowFullScreen" value="true"><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fp_kirn%2Fsets%2F72157625031790985%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fp_kirn%2Fsets%2F72157625031790985%2F&amp;set_id=72157625031790985&amp;jump_to=" width="400" height="300"></embed></object><br /><br /><a href="http://createdigitalmusic.com/2010/11/last-days-of-compact-disco/">Create Digital Music - Last Days of Compact Disco: Album Lovers Hand-Make Musical Objects</a>: <div>"at NYC’s wonderful Culturefix, a handful of us got together and constructed some handmade discs. It’s definitely something you could do at an album swap meet with other artists and DJs in an afternoon or evening, and it makes the swap feel more meaningful. Pics at top; I hope we do more of these.<br /><br />If this is the way the CD goes out, I think it’ll go out with style. And whatever the trends in the larger world, who’s to deny you your tangible album, really?"</div>

@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<article class="post">
+    <header class="post-header">
+        <div class="container">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div class="post-meta">
+                <time datetime="{{ page.date | date_to_xmlschema }}">
+                    {{ page.date | date: "%B %d, %Y" }}
+                </time>
+                {% if page.author %}
+                <span class="post-author">by {{ page.author }}</span>
+                {% endif %}
+            </div>
+        </div>
+    </header>
+    
+    <div class="post-content">
+        <div class="container">
+            {{ content }}
+        </div>
+    </div>
+    
+    <footer class="post-footer">
+        <div class="container">
+            <div class="post-tags">
+                {% if page.tags %}
+                <span class="tags-label">Tags:</span>
+                {% for tag in page.tags %}
+                <a href="{{ '/tags/' | append: tag | downcase | replace: ' ', '-' | relative_url }}" class="tag">{{ tag }}</a>
+                {% endfor %}
+                {% endif %}
+            </div>
+            
+            <!-- Podcast Subscription Section -->
+            {% if page.categories contains 'podcast' %}
+            <div class="podcast-subscribe-section">
+                <h3 class="subscribe-title">Subscribe to the Podcast</h3>
+                <p class="subscribe-description">Never miss an episode! Subscribe on your favorite platform.</p>
+                <div class="platform-grid-small">
+                    {% for platform in site.data.podcast.platforms %}
+                    <a href="{{ platform.url }}" target="_blank" class="platform-card-small">
+                        <div class="platform-icon-small">{{ platform.icon }}</div>
+                        <div class="platform-info-small">
+                            <span class="platform-name-small">{{ platform.name }}</span>
+                        </div>
+                        <span class="platform-arrow-small">↗</span>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Transcript Section -->
+            {% if page.transcript_url %}
+            <div class="transcript-section" style="margin-top: 2rem;">
+                <h3>Episode Transcript</h3>
+                <p>Read the full transcript of this episode:</p>
+                <a href="{{ page.transcript_url | relative_url }}" class="btn btn-primary">View Transcript</a>
+            </div>
+            {% endif %}
+            {% endif %}
+        </div>
+    </footer>
+</article>

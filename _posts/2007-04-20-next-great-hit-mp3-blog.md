@@ -1,0 +1,8 @@
+---
+title: "!Next Great Hit! mp3 blog"
+date: 2007-04-20 00:00:00 
+permalink: /2007/04/next-great-hit-mp3-blog.html
+thumbnail: http://photos1.blogger.com/x/blogger2/5475/183926538121153/220/z/335871/gse_multipart6121.jpg
+---
+
+<p><a title="Next Great Hit" href="http://nextgreathit.blogspot.com/2007/04/ngh-01-songs-that-rock.html"><img border="0" src="http://photos1.blogger.com/x/blogger2/5475/183926538121153/220/z/335871/gse_multipart6121.jpg" alt="Next Great Hit" /></a></p>  <p>Chris G at the <a href="http://nextgreathit.blogspot.com">!Next Great Hit! mp3 <span>blog</span></a> included us in his first round-up of posts titled "Songs that rock". Here's what he had to say about the song "I'm doing fine".</p>  <blockquote cite="http://nextgreathit.blogspot.com/2007/04/ngh-01-songs-that-rock.html">This song is getting a lot of attention on <span>podcasts</span> and on the web. I had to include it in this list. Just listen to the lyrics on this song! "An overstocked buffet of your evil ways, yes liquor will be served".</blockquote><p class="citation"><cite cite="http://nextgreathit.blogspot.com/2007/04/ngh-01-songs-that-rock.html"><a href="http://nextgreathit.blogspot.com/2007/04/ngh-01-songs-that-rock.html">!Next Great Hit!: <span>NGH</span>! 01 - Songs That Rock</a></cite></p>  <p/><p/>We appreciate the nod, Thanks Chris.<br/> <!-- technorati tags begin --><p style="font-size:10px;text-align:right;">technorati tags:<a href="http://technorati.com/tag/mp3" rel="tag">mp3</a>, <a href="http://technorati.com/tag/blogs" rel="tag">blogs</a>, <a href="http://technorati.com/tag/music%20list" rel="tag">music list</a></p><!-- technorati tags end -->

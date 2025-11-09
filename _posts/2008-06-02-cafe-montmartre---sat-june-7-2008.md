@@ -1,0 +1,9 @@
+---
+title: "Cafe Montmartre - Sat. June 7, 2008"
+date: 2008-06-02 00:00:00 
+permalink: /2008/06/cafe-montmartre-sat-june-7-2008.html
+thumbnail: http://lh3.ggpht.com/LorenzosMusic/SDo5Uvo6X1I/AAAAAAAAAog/XGqkzAa52r4/s288/momo_flyer_080607_motel.jpg
+tags: ["shows"]
+---
+
+<a title="Cafe Montmartre June 7, 2008" href="http://picasaweb.google.com/lh/photo/ZgYa4Otf76XWmegYPijbUQ">  <img src="http://lh3.ggpht.com/LorenzosMusic/SDo5Uvo6X1I/AAAAAAAAAog/XGqkzAa52r4/s288/momo_flyer_080607_motel.jpg" border="0" /></a><br />Sunshine For The Blind - 1130pm<br />Lorenzo's Music - 10pm<br />Doors 9pm<br />at Cafe Montmartre in Madison, WI<br /><br />Taking photos of the show? Upload them to <a href="http://www.flickr.com">Flickr</a> and tag them with <span style="font-style: italic; color: rgb(255, 153, 0);">lastfm:event=638121</span> and we'll post them on our site.<br /><br />Follow us on <a href="http://twitter.com/lorenzosmusic">Twitter</a> at <a href="http://twitter.com/lorenzosmusic">http://twitter.com/lorenzosmusic</a><br /><br />Or get mobile phone updates by texting - "follow lorenzosmusic" (without the quotes) - to 40404<br /><br /><span style="font-style: italic;">Subscribe to Lorenzo's Music Shows:</span><br /><img src="http://cdn.last.fm/favicons/cal/google.gif" style="" title="" alt="" border="none" /> <a href="http://www.google.com/calendar/render?cid=http://ws.audioscrobbler.com/1.0/artist/Lorenzo%2527s%2BMusic/events.ics">Google Calendar</a><br /><img src="http://cdn.last.fm/favicons/cal/ical.gif" style="" title="" alt="" border="none" /> <a href="http://ws.audioscrobbler.com/1.0/artist/Lorenzo%2527s%2BMusic/events.ics">Ical</a><br /><img src="http://cdn.last.fm/favicons/feed.gif" style="" title="" alt="" border="none" /> <a href="http://ws.audioscrobbler.com/1.0/artist/Lorenzo%2527s%2BMusic/events.rss">rss</a><br /><a title="Cafe Montmartre June 7, 2008" href="http://picasaweb.google.com/lh/photo/ZgYa4Otf76XWmegYPijbUQ"> </a>

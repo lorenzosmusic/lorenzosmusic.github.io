@@ -1,0 +1,10 @@
+---
+title: "Rainy day friction (Live music video)"
+date: 2024-04-10 00:00:00 
+permalink: /2024/04/rainy-day-friction-live-music-video.html
+thumbnail: https://img.youtube.com/vi/I7Ds3oAxQTc/hqdefault.jpg
+excerpt: "Live music video for the song \"Rainy day friction\" by Lorenzo's Music"
+tags: ["Rainy day friction", "live-video", "music-video", "videospage"]
+---
+
+<p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/I7Ds3oAxQTc" type="text/html" width="640"></iframe></p><p>Stream "Rainy day friction" on:</p><p></p><ul style="text-align: left;"><li><a href="https://open.spotify.com/album/5XuVnLcKfJHbVT2oewj5hF?si=ztu_B0eLSHKkw0KbjyFHXA" rel="nofollow" target="_blank">Spotify</a></li><li><a href="https://music.apple.com/us/album/rainy-day-friction-single/1733375349" rel="nofollow" target="_blank">Apple Music</a></li><li><a href="https://music.youtube.com/playlist?list=OLAK5uy_m3uV4erFjhYdMoOJc7r2AYqzbL00gC4MM&amp;si=8rZa36eiGYZ-C_po" rel="nofollow" target="_blank">YouTube Music</a></li><li><a href="https://music.amazon.com/albums/B0CWN7NDKB?marketplaceId=ATVPDKIKX0DER&amp;musicTerritory=US&amp;ref=dm_sh_3M2p9vnGsm5XDkZl1Rx6Vcfdv" rel="nofollow" target="_blank">Amazon Music</a></li><li><a href="https://lorenzosmusic.bandcamp.com/track/rainy-day-friction" rel="nofollow" target="_blank">Bandcamp</a></li></ul><p></p><p>Live music video for "<a href="https://www.lorenzosmusic.com/2024/03/rainy-day-friction-by-lorenzos-music.html">Rainy day friction</a>" by <b>Lorenzo's Music<span></span></b></p><!--more--><p></p><p style="text-align: left;">We recorded this video of the song live from our recording studio using, <b>Ardour</b>, and <b>Kdenlive</b>. All open-source tools for video and recording.</p><p style="text-align: left;">This is the 3rd song for a film soundtrack project we're working on. It is a melancholic song. Sparse piano, strings, and bass set the pace, while vocals, baritone sax, and organ create a crescendo in the chorus, evoking feelings of longing for a scene in the movie.</p><p style="text-align: left;"><br /></p>

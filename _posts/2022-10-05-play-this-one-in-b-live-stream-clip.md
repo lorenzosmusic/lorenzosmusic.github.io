@@ -1,0 +1,10 @@
+---
+title: "Play this one in b (Live Stream Clip)"
+date: 2022-10-05 00:00:00 
+permalink: /2022/10/play-this-one-in-b-live-stream-clip.html
+thumbnail: https://img.youtube.com/vi/T2yqVEaEnv0/hqdefault.jpg
+excerpt: "This song idea is based on an old 30-second audio file we found"
+tags: ["studio", "songwriting", "live-video"]
+---
+
+<p>Here is a clip from one of our live songwriting sessions on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch channel</a>. We just turn on the camera and try out ideas and see where they take us.</p><p>Here is a clip from one of those sessions we posted to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel</a>.</p><h2 style="text-align: left;">Play this one in b (Live Stream Clip)</h2><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/T2yqVEaEnv0" type="text/html" width="640"></iframe></p><p></p><h2 style="text-align: left;">This song idea is based on an old 30-second audio file we found</h2>The song idea we play in the video is actually based on a short audio snippet we found in our sessions library.<span><!--more--></span><div><br /></div><div>The first few measures we play are what was from the audio snippet we found and we kind of go off from there.<br /><p></p><p>We don't remember recording the original so we thought we would see what we could do with it live.</p><div class="tomsbox"><h2 style="text-align: center;">Don't forget!</h2><p>Want to see more clips in the future, subscribe to <a href="https://www.youtube.com/channel/UCRghTj3ajY6YjV6_obPT2Jw?sub_confirmation=1" rel="nofollow" target="_blank">our YouTube Channel!</a></p><p>Would like to watch our live streams follow us on <a href="https://www.twitch.tv/lorenzosmusic" rel="nofollow" target="_blank">our Twitch Channel!</a></p></div></div>

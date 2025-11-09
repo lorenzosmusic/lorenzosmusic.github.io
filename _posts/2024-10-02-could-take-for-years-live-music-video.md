@@ -1,0 +1,10 @@
+---
+title: "Could take for years (Live Music Video)"
+date: 2024-10-02 00:00:00 
+permalink: /2024/10/could-take-for-years-live-music-video.html
+thumbnail: https://img.youtube.com/vi/gdyEJbO0ytg/hqdefault.jpg
+excerpt: "Live music video for the song \"Could take for years\""
+tags: ["Could take for years", "live-video", "music-video", "videospage"]
+---
+
+<p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/gdyEJbO0ytg" type="text/html" width="640"></iframe></p><p>Stream "Could take for years" on:</p><p></p><ul style="text-align: left;"><li><a href="https://open.spotify.com/album/62eSYtOLDplXWmDnatxCd6?si=2vOJFQMKRACe5td0bcKr-Q" rel="nofollow" target="_blank">Spotify</a></li><li><a href="https://music.apple.com/us/album/could-take-for-years-ep/1764060529" rel="nofollow" target="_blank">Apple Music</a></li><li><a href="https://music.youtube.com/playlist?list=OLAK5uy_n_XaUAjzCcLniVha7-WegKlawyqHteGLo" rel="nofollow" target="_blank">YouTube Music</a></li><li><a href="https://music.amazon.com/albums/B0DDSWPGPL?marketplaceId=ATVPDKIKX0DER&amp;musicTerritory=US&amp;ref=dm_sh_azYJ64UU1JtZWwklZv89YMYIl" rel="nofollow" target="_blank">Amazon Music</a></li><li><a href="https://lorenzosmusic.bandcamp.com/track/could-take-for-years" rel="nofollow" target="_blank">Bandcamp</a></li><li><a href="https://archive.org/download/could-take-for-years/could-take-for-years_archive.torrent" rel="nofollow" target="_blank">Torrent</a></li></ul><p></p><p>Live music video for "<a href="https://www.lorenzosmusic.com/2021/10/could-take-for-years-by-lorenzos-music.html">Could take for years</a>" by Lorenzo's Music</p><p>"Could Take For Years," by Lorenzo's Music is a slow-burning groove with a warbly bassline and a soulful rhythm reminiscent of Mark Ronson. The lyrics delve into existential themes, exploring the regret of waiting too long for love.<span></span></p><!--more--><p></p><p>We recorded this video of the song live from our recording studio using, <b>Ardour</b>, <b>Doidcam</b>, <b>OBS</b>, <b>Kdenlive</b>, and <b>Ubuntu Studio</b> a computer operating system for musicians and artists.</p><p><br /></p>

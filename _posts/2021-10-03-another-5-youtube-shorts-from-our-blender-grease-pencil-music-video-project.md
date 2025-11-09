@@ -1,0 +1,35 @@
+---
+title: "Another 5 YouTube Shorts from our Blender Grease Pencil Music Video Project"
+date: 2021-10-03 00:00:00 
+permalink: /2021/10/another-5-youtube-shorts-from-our.html
+thumbnail: https://img.youtube.com/vi/HBFq6MFrG_Q/hqdefault.jpg
+excerpt: "Some progress scenes from the music video we're making in Blender Grease Pencil"
+tags: ["cover", "shore-leave", "blog"]
+---
+
+<h3 style="text-align: left;">Some progress scenes from the music video we're making in Blender Grease Pencil</h3><p>I mentioned <a href="https://www.lorenzosmusic.com/2021/09/i-started-with-simple-beat-and-it.html">in an earlier video how this whole idea started</a>.&nbsp;I wanted to try making a music video using the <a href="https://www.blender.org" target="_blank">Blender animation software</a>.&nbsp;</p><p>I had never used it before and figured this was a good way to learn.</p><p>So as the song was being recorded I started animating the video <u>one line at a time</u> and sharing the progress as <b>YouTube shorts</b>.</p><p>(<b>Previous shorts here</b> -&nbsp;<a href="https://www.lorenzosmusic.com/2021/09/5-more-music-video-scenes-animated.html">5 MORE MUSIC VIDEO SCENES ANIMATED - SHORE LEAVE</a>)</p><p>I'm getting close to the end of making this music video now and wanted to share some of the key scenes that I have before it's finished.</p><h2 style="text-align: left;">Scene 11</h2><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/HBFq6MFrG_Q" width="320" youtube-src-id="HBFq6MFrG_Q"></iframe></div><h3 style="text-align: left;">"Squeezing all the life out of a lousy two-day pass"</h3><p>This one actually got the most views on YouTube so far. I think what I like about this one is, until now the pencil sketch man has been singing into the phone with his eyes closed. In this video, his eyes open for a brief second and he looks off in the distance.</p><p style="text-align: left;">(<b>Related post</b> - <a href="https://www.lorenzosmusic.com/2021/09/progress-on-animating-our-shore-leave.html">How I animated these videos in Blender Grease Pencil</a>)</p><h2 style="text-align: left;">Scene 12</h2><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/3BAWeFlfa_M" width="320" youtube-src-id="3BAWeFlfa_M"></iframe></div><h3 style="text-align: left;">"I had a cold one"</h3><p>In the next scene the pencil sketch man's eyes start to close as he continues to tell his story into the payphone.</p><h2 style="text-align: left;">Scene 16</h2><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/14Sq3Eam-m0" width="320" youtube-src-id="14Sq3Eam-m0"></iframe></div><h3 style="text-align: left;">"I just can't make it by myself"</h3><p>In this scene the pencil sketch man is getting ready for the final chorus of the song.</p><h2 style="text-align: left;">Scene 17</h2><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/OAsMvXy5Ir8" width="320" youtube-src-id="OAsMvXy5Ir8"></iframe></div><h3 style="text-align: left;">"Shore leave"</h3><p>I'm in the process of animating the last chorus now. With the way the vocals in the song start to let loose I thought that the pencil sketch man might need to accent this energy by bending down to yell it.</p><h2 style="text-align: left;">Scene 18</h2><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/P4efmoHiE1Q" width="320" youtube-src-id="P4efmoHiE1Q"></iframe></div><h3 style="text-align: left;">"Shooooore leeeeeave!"</h3><p>Then he stands up holding the phone away from his face and continues to yell out the chorus.</p><h2 style="text-align: left;">Just about finished with the video</h2><p>I only have a few scenes left to go for this music video project. I will post the finished version when it's done.</p><p>I've been happy with this so far and I think I might do another one when this is finished.</p><p>Sign up for our email list and I can let you know when more music or videos are posted!</p><p>-Tom</p><div class="lorenzosbox" style="border: 1px solid rgb(204, 204, 204); padding: 20px; text-align: center;"><h2>Lorenzo's Music email list</h2><p>Sign up to hear about when we release new songs or videos</p><!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://lorenzosmusic.us5.list-manage.com/subscribe/post?u=bd39e48b3847c20cf6a20f765&amp;id=6b9887110e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bd39e48b3847c20cf6a20f765_6b9887110e" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[4]='STREET';ftypes[4]='text';fnames[5]='CITY';ftypes[5]='text';fnames[6]='STATE';ftypes[6]='text';fnames[7]='COUNTRY';ftypes[7]='text';fnames[3]='ZIP';ftypes[3]='zip';fnames[13]='PURCH';ftypes[13]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup--></div>

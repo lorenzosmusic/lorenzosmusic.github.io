@@ -1,0 +1,135 @@
+---
+layout: page
+title: Music
+subtitle: Listen to Our Latest Releases
+---
+
+<div class="music-content">
+    <div class="music-section">
+        <h2>Latest Album: {{ site.music.latest_album.title }}</h2>
+        <div class="album-feature">
+            <div class="album-art">
+                {% if site.music.latest_album.image %}
+                <img src="{{ site.music.latest_album.image | relative_url }}" alt="{{ site.music.latest_album.title }} Album Art" class="album-art-image">
+                {% else %}
+                <div class="placeholder-album-large">Album Art</div>
+                {% endif %}
+            </div>
+            <div class="album-info">
+                <h3>{{ site.music.latest_album.title }}</h3>
+                <p class="album-description">{{ site.music.latest_album.description }}</p>
+                <div class="album-tracks">
+                    <h4>Track Listing:</h4>
+                    <ol>
+                        {% for track in site.music.latest_album.tracks %}
+                        <li>{{ track }}</li>
+                        {% endfor %}
+                    </ol>
+                </div>
+                <div class="album-links">
+                    {% if site.music.latest_album.spotify_url %}
+                    <a href="{{ site.music.latest_album.spotify_url }}" target="_blank" class="btn btn-primary">Listen on Spotify</a>
+                    {% endif %}
+                    {% if site.music.latest_album.bandcamp_url %}
+                    <a href="{{ site.music.latest_album.bandcamp_url }}" target="_blank" class="btn btn-secondary">Buy on Bandcamp</a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="music-section">
+        <h2>Featured Videos</h2>
+        <div class="video-grid">
+            <div class="video-card">
+                <div class="video-embed">
+                    <iframe
+                        width="100%"
+                        height="315"
+                        src="https://www.youtube.com/embed/cGNWM_t2OkA"
+                        title="Friction called quest (All That Time - Velcro Mary Mix) Lyric Video"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+                <div class="video-info">
+                    <h3>Friction called quest (All That Time - Velcro Mary Mix) Lyric Video</h3>
+                    <p>A person cleans the widows of a high-rise building to the sound of "Friction called quest (All That Time)" by Velcro Mary. A lyric video from the album Lorenzo's Remixes, Volume 2.</p>
+                </div>
+            </div>
+
+            <div class="video-card">
+                <div class="video-embed">
+                    <iframe
+                        width="100%"
+                        height="315"
+                        src="https://www.youtube.com/embed/9t9hnitkx4s"
+                        title="If I was alone (Da Dun &amp; I Mix) (Walk Cycle Lyric Video)"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+                <div class="video-info">
+                    <h3>If I was alone (Da Dun &amp; I Mix) (Walk Cycle Lyric Video)</h3>
+                    <p>A lyric video featuring animation by Cento Lodigiani</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="music-section">
+        <h2>Previous Releases</h2>
+        <div class="releases-grid">
+            {% for release in site.music.releases %}
+            <div class="release-card">
+                <div class="release-art">
+                    {% if release.image %}
+                    <img src="{{ release.image | relative_url }}" alt="{{ release.title }} Album Art" class="release-art-image">
+                    {% else %}
+                    <div class="placeholder-album">Album Art</div>
+                    {% endif %}
+                </div>
+                <div class="release-info">
+                    <h3>{{ release.title }}</h3>
+                    <p class="release-year">{{ release.year }}</p>
+                    <p>{{ release.description }}</p>
+                    <div class="release-links">
+                        {% if release.spotify_url %}
+                        <a href="{{ release.spotify_url }}" target="_blank" class="btn btn-small">Listen</a>
+                        {% endif %}
+                        {% if release.bandcamp_url %}
+                        <a href="{{ release.bandcamp_url }}" target="_blank" class="btn btn-small btn-outline">Buy</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="music-section">
+        <h2>Live Performances</h2>
+        <div class="live-videos">
+            <div class="video-card">
+                <div class="video-embed">
+                    <iframe 
+                        width="100%" 
+                        height="315" 
+                        src="https://www.youtube.com/embed/videoseries?si=3O19zKPWt148a74q&amp;list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+                        title="Lorenzo's Music: The Live and Unfiltered Show"
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+                <div class="video-info">
+                    <h3>Lorenzo's Music: The Live &amp; Unfiltered Show</h3>
+                    <p>Catch Lorenzo's Music LIVE every Wednesday Night! The show features live performances, songwriting discussions, and improvised song ideas!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

@@ -1,0 +1,10 @@
+---
+title: "LuvCraf - The Multiverse of Music and Home Studios - Lorenzo's Music Podcast"
+date: 2024-02-23 00:00:00 
+permalink: /2024/02/luvcraf-multiverse-of-music-and-home.html
+thumbnail: https://img.youtube.com/vi/eH1AQMUzUWo/hqdefault.jpg
+excerpt: "On the podcast I meet Daniel Glascock of LuvCraf"
+tags: ["podcast", "lorenzos-music-podcast", "LuvCraf"]
+---
+
+<p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/eH1AQMUzUWo" type="text/html" width="640"></iframe></p><p style="text-align: left;"><b>Listen to the show on:</b> <a href="https://open.spotify.com/show/41teUSf34DaUAW4Ukk2J7L" rel="nofollow" target="_blank">Spotify</a> | <a href="https://itunes.apple.com/us/podcast/lorenzos-music-podcast/id1441923662?mt=2&amp;app=podcast&amp;at=11lMBQ&amp;ct=luvcraf" rel="nofollow" target="_blank">Apple Podcasts</a> | <a href="https://music.youtube.com/playlist?list=PLbvJrJ34c9MmVSGE4nMSU_KXCR5Bgm-P6" rel="nofollow" target="_blank">YouTube Podcasts</a> | <a href="https://anchor.fm/s/7a0e054/podcast/rss" rel="nofollow" target="_blank">RSS</a></p><p>Music enthusiasts and gearheads, buckle up for a deep dive with <b>Daniel Glascock</b> of <b>Love undulates violently &gt; Consciousness rises above fear</b> (or LuvCraf for short).&nbsp;</p><p>In the latest podcast episode, I talk with this musician who has transformed his home into a studio filled with vintage synthesizers and drum machines.<span></span></p><!--more--><p></p><p>Daniel is not one to be pigeonholed into a single genre. His projects span from funk-infused beats that could teleport you back to a groovy 70s dance floor to sprawling 20-minute trance odysseys.</p><p>We talk about the live music scene, the challenges and triumphs of performing, and the decision to ultimately focus on music.</p><p>Check out&nbsp;<b>Love undulates violently &gt; Consciousness rises above fear</b> on Bandcamp</p><p><a href="https://luvcraf.bandcamp.com" rel="nofollow" target="_blank">https://luvcraf.bandcamp.com</a></p><p><br /></p>

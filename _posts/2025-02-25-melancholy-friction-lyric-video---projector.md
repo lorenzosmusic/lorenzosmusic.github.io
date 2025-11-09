@@ -1,0 +1,10 @@
+---
+title: "Melancholy friction (Lyric Video - Projector)"
+date: 2025-02-25 00:00:00 
+permalink: /2025/02/melancholy-friction-lyric-video.html
+thumbnail: https://img.youtube.com/vi/yGO7CrIHV-I/hqdefault.jpg
+excerpt: "Lyric video for the song \"Melancholy friction\" by Lorenzo's Music"
+tags: ["Melancholy friction", "video", "videospage", "music-video"]
+---
+
+<p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/yGO7CrIHV-I" type="text/html" width="640"></iframe></p><p><b>Listen to "Melancholy friction" on:</b></p><p></p><ul style="text-align: left;"><li><a href="https://open.spotify.com/album/6UjHdGC8spmpkbq2OzAfdi?si=cZOGDoqfTxGN8p9NhT1DzQ" rel="nofollow" target="_blank">Spotify</a></li><li><a href="https://music.apple.com/ae/album/melancholy-friction-ep/1793314925" rel="nofollow" target="_blank">Apple Music</a></li><li><a href="https://music.youtube.com/playlist?list=OLAK5uy_nnh3gJ-mF73tufZ-ifnW4qUZuD0Zih0Hk&amp;si=S_I4JyBi4_W184WL" rel="nofollow" target="_blank">YouTube Music</a></li><li><a href="https://music.amazon.com/albums/B0DV79BGLF?marketplaceId=ATVPDKIKX0DER&amp;musicTerritory=US&amp;ref=dm_sh_XYQ7wCq6b6jE2dSJVbwgYdcUH" rel="nofollow" target="_blank">Amazon Music</a></li><li><a href="https://faircamp.lorenzosmusic.com/melancholy-friction/">Faircamp</a></li><li><a href="https://lorenzosmusic.bandcamp.com/track/melancholy-friction" rel="nofollow" target="_blank">Bandcamp</a></li></ul><p></p><p>"<a href="https://www.lorenzosmusic.com/2025/02/melancholy-friction-by-lorenzos-music.html">Melancholy Friction</a>" by Lorenzo’s Music is the sixth track in their experimental movie soundtrack project. Born from a live stream songwriting session, the raw audio features crackles and hiss reminiscent of old tape recordings. Wide room mic recordings of bass and guitar add depth, while vocals—sung through a vintage bullet harmonica mic—echo the theme of realizing too much has passed. This alt-rock, experimental piece is a unique blend of lo-fi grit and emotional intensity.</p><p><br /></p>

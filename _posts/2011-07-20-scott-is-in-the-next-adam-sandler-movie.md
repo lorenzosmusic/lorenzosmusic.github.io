@@ -1,0 +1,9 @@
+---
+title: "Scott is in the next Adam Sandler movie"
+date: 2011-07-20 00:00:00 
+permalink: /2011/07/scott-is-in-next-adam-sandler-movie.html
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFJLMUIMH1pgW4wgRaWLLcSzkGuiJlJB_UxHXAWmfiWrEHvfmQmfNaO9s0EbtZt_oqel5xeJ7dVOF7i3GIak7SZwAHUwGirGju0H7YwIjri3w-E-LzltZgm_XXcjYL3eGaZBh/s400/scott-post.png
+tags: ["blog"]
+---
+
+Just wanted to give a shout out to our friend and previous drummer Scott Beardsley. Both him and our previous bass player Chris Boeger are in a jazz trio in a scene for the new Adam Sandler movie "<a href="http://www.imdb.com/title/tt1232200/">I Hate You, Dad</a>" which is filming now.<br /><br />I found out when I saw this post on Scott's facebook page:<br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFJLMUIMH1pgW4wgRaWLLcSzkGuiJlJB_UxHXAWmfiWrEHvfmQmfNaO9s0EbtZt_oqel5xeJ7dVOF7i3GIak7SZwAHUwGirGju0H7YwIjri3w-E-LzltZgm_XXcjYL3eGaZBh/s1600/scott-post.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="70" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFJLMUIMH1pgW4wgRaWLLcSzkGuiJlJB_UxHXAWmfiWrEHvfmQmfNaO9s0EbtZt_oqel5xeJ7dVOF7i3GIak7SZwAHUwGirGju0H7YwIjri3w-E-LzltZgm_XXcjYL3eGaZBh/s400/scott-post.png" width="400" /></a></div><br />So I called Mark and asked him about it and it seems that Chris knows the director and Mark recorded a demo for them to submit and they got the part.<br /><br />We're really proud of them and can't wait to see what the outcome is like. I'm sure it'll be great!<br /><br />And for the love of god I hope they give Scott a line in the movie, because he is one of the funniest people I know.

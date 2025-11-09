@@ -1,0 +1,13 @@
+---
+title: "Seemed easier than it was"
+date: 2015-08-15 00:00:00 
+permalink: /2015/08/seemed-easier-than-it-was.html
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNIVD4dOtRbNi-AinA4KVDNNAN5VLaX-ph2ZJhwVljyQMQpZnWu_zElUWtac8QDzyqhKpcw9lbXIxcD-WSp3P7WQJQUl12MaL_jX-5iRef8hupYW7RNcrKQrNeyC5XyWTGRgZD/s700/IMG_20150812_233005.jpg
+excerpt: "thoughts on organic songwriting & technology."
+tags: ["blog", "songwriting"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNIVD4dOtRbNi-AinA4KVDNNAN5VLaX-ph2ZJhwVljyQMQpZnWu_zElUWtac8QDzyqhKpcw9lbXIxcD-WSp3P7WQJQUl12MaL_jX-5iRef8hupYW7RNcrKQrNeyC5XyWTGRgZD/s1600/IMG_20150812_233005.jpg" imageanchor="1"><img alt="image" border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNIVD4dOtRbNi-AinA4KVDNNAN5VLaX-ph2ZJhwVljyQMQpZnWu_zElUWtac8QDzyqhKpcw9lbXIxcD-WSp3P7WQJQUl12MaL_jX-5iRef8hupYW7RNcrKQrNeyC5XyWTGRgZD/s700/IMG_20150812_233005.jpg" title="Mark mapping out a drum pattern" width="100%" /></a></div>
+<br />
+Technology for a songwriting tool is great. I love it. It's come a long way since the times of crappy 4 track recordings. <br /><br />We can come to a practice and play a fully fleshed out idea. Worked on from home with drum sounds &amp; instruments already tweeked. Expressing the sound we want represented in our head.<br /><br />Don't get me wrong, nothing can compare to a full band arrangement. Writing on a computer can be almost too easy sometimes.<br /><br />Mark, recorded a draft for a song. When we listened it seemed pretty straight forward. Then we tried to break it down in sections.<br /><br />The drum line on the digital sketch, while easy to program, turned out to be a complex 16 bar loop. This is where it gets interesting. <br /><br />While the beat was easy to create on screen, it was not something compatible to human coordination off the bat. Rob discovered that while trying to play it. <br /><br />This is where the merging of technology &amp; man made music is fantastic in my opinion! <br /><br />Rob, now trying to figure out this combination, is opening his skill set to a whole new approach. A rhythm he would not have come up with organically. <br /><br />This is why I don't say making music on a computer is killing creativity in music. Just don't solely rely on it. Building from it as a tool. <br /><br />-Tom

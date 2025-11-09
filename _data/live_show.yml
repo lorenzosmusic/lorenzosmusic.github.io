@@ -1,0 +1,107 @@
+# Live Show Configuration
+title: "LORENZO'S MUSIC THE LIVE & UNFILTERED SHOW"
+subtitle: "Live from our studio every Wednesday at 9 PM Central"
+youtube_channel: "https://youtube.com/@lorenzosmusic"
+youtube_playlist: "https://youtube.com/playlist?list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+youtube_playlist_embed: "https://www.youtube.com/embed/videoseries?list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+calendar_url: "https://calendar.google.com/calendar/event?action=TEMPLATE&text=Lorenzo's+Music+Live+Show&dates=20240115T210000Z/20240115T230000Z&details=Live+from+our+studio+every+Wednesday+at+9+PM+Central&location=https://youtube.com/@lorenzosmusic"
+
+# What to Expect Section
+expectations:
+  - icon: "🎸"
+    title: "Live Band Practice"
+    description: "Watch us rehearse our actual setlist and work on new material in real-time."
+  
+  - icon: "💬"
+    title: "Interactive Chat"
+    description: "Join the conversation! Ask questions, talk music, and chat with the band live."
+  
+  - icon: "🎼"
+    title: "Songwriting Sessions"
+    description: "See the creative process unfold as we write and develop new songs together."
+  
+  - icon: "📹"
+    title: "Behind the Scenes"
+    description: "Get an unfiltered look at our studio setup, gear, and band dynamics."
+  
+  - icon: "🎵"
+    title: "Music Performances"
+    description: "We play songs from our catalog during the live stream."
+  
+  # - icon: "🎤"
+  #   title: "Q&A Sessions"
+  #   description: "Ask us about our music, gear, songwriting process, or anything else!"
+
+# Latest Episodes (add your recent episodes here)
+episodes:
+  - title: "How should it go live Band Practice Stream - ep56"
+    date: "2025-10-29"
+    duration: "30:55"
+    description: "Recap the Ubuntu Summit stream, Tom talks about a weird phone conversation he heard. We work more on a song idea called Until Now."
+    thumbnail: "https://i.ytimg.com/vi/1RvMR5z1UMo/maxresdefault.jpg"
+    youtube_url: "https://www.youtube.com/watch?v=1RvMR5z1UMo&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=1RvMR5z1UMo"
+
+  - title: "Let's try this new one - Live band practice - ep55"
+    date: "2025-10-22"
+    duration: "32:53"
+    description: "Tom talks about cereal and discusses how the band Boston was one guy, The band plays songs and works on a new one called &quot;Down it goes&quot;."
+    thumbnail: "https://i.ytimg.com/vi/Qxyv6E8DjVY/maxresdefault.jpg"
+    youtube_url: "https://www.youtube.com/watch?v=Qxyv6E8DjVY&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=Qxyv6E8DjVY"
+
+  - title: "Did we do it right? Live band practice - ep54"
+    date: "2025-10-15"
+    duration: "28:26"
+    description: "We work on the song &quot;Until now&quot;, and play some others from our set. Tom has a story about getting his ears flushed and somehow we get on the subject of Brooklyn 99."
+    thumbnail: "https://i.ytimg.com/vi/rHmI2eZCgOQ/maxresdefault.jpg"
+    youtube_url: "https://www.youtube.com/watch?v=rHmI2eZCgOQ&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=rHmI2eZCgOQ"
+
+  - title: "When we try it at band practice - The Live & Unfiltered Show - ep53"
+    date: "2025-10-08"
+    duration: "49:03"
+    description: "In a special version of the show we practice our set list for the Ubuntu Summit live stream."
+    thumbnail: "https://i.ytimg.com/vi/QwQFLkJqG6U/maxresdefault.jpg"
+    youtube_url: "https://youtube.com/watch?v=QwQFLkJqG6U&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=QwQFLkJqG6U"
+
+  - title: "One more try to learn this song - The Live & Unfiltered Show - ep52"
+    date: "2025-10-01"
+    duration: "36:01"
+    description: "The band ponders giving themselves nicknames and works on the song Until Now one more time."
+    thumbnail: "https://i.ytimg.com/vi/gsH3eLqaA14/maxresdefault.jpg"
+    youtube_url: "https://www.youtube.com/watch?v=gsH3eLqaA14&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=gsH3eLqaA14"
+
+  - title: "How's this go? Band Practice Stream - ep51"
+    date: "2025-09-24"
+    duration: "35:39"
+    description: "Tom questions the Red Bull Slogan, Rob sound like Arnold and Bryan has a bullhorn effect. The band works more on the song Until Now."
+    thumbnail: "https://i.ytimg.com/vi/4nHdaKWS3g8/maxresdefault.jpg"
+    youtube_url: "https://www.youtube.com/watch?v=4nHdaKWS3g8&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=4nHdaKWS3g8"
+
+# How to Watch & Listen Platforms
+platforms:
+  - name: "YouTube"
+    title: "Watch Live & Replays"
+    description: "Catch our live streams and watch all previous episodes with video."
+    icon: "📺"
+    url: "https://youtube.com/@lorenzosmusic"
+    features:
+      - "Live streaming every Wednesday"
+      - "Full video replays"
+      - "Live chat interaction"
+      - "HD quality video"
+  
+  - name: "YouTube Music"
+    title: "Listen as Podcast"
+    description: "Audio-only version available as a podcast on YouTube Music."
+    icon: "🎧"
+    url: "https://music.youtube.com/playlist?list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    features:
+      - "Audio-only podcast format"
+      - "Background listening"
+      - "Download for offline"
+      - "Playlist organization"

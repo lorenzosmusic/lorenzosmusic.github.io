@@ -1,0 +1,8 @@
+---
+title: "Slipper Club Show"
+date: 2005-06-06 00:00:00 
+permalink: /2005/06/slipper-club-show.html
+thumbnail: http://www.lorenzosmusic.com/hello/1214498/200/flyer_050610_girlpaint-2005.06.06-13.10.09.jpg
+---
+
+<a href="http://www.lorenzosmusic.com/hello/1214498/640/flyer_050610_girlpaint-2005.06.06-13.10.09.jpg"><img style="BORDER-RIGHT: rgb(255,255,255) 1px solid; BORDER-TOP: rgb(255,255,255) 1px solid; MARGIN: 2px; BORDER-LEFT: rgb(255,255,255) 1px solid; BORDER-BOTTOM: rgb(255,255,255) 1px solid" src="http://www.lorenzosmusic.com/hello/1214498/200/flyer_050610_girlpaint-2005.06.06-13.10.09.jpg" border="0" /></a><br />This Friday June 10, 2005<br />At <a href="http://www.slipperclub.net/">The Slipper Club</a> - <span style="font-family:helvetica,arial,sans-serif;">121 W. Main St. Madison, WI<br />with <a href="http://theselfishgene.com/">The Selfish Gene</a><br />10pm - $5 <table bordercolor="#000000" cellspacing="0" cellpadding="0" width="120" border="1"><br /><tbody><tr bgcolor="#3366ff"><form action="http://www.cafepress.com/cp/members/member_subscription.aspx" method="post"><br /><input type="hidden" value="lorenzos" name="storeid">Join our newsletter,<br />and get the latest news<br />from our website delivered<br />directly to your inbox!<br /><input onfocus="this.value=''" maxlength="50" size="8" value="enter email" name="txtemail"><br /><input type="submit" value="go"></tr></tbody></table></span></form><span style="font-family:helvetica,arial,sans-serif;"></span></tr>

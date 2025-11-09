@@ -1,0 +1,10 @@
+---
+title: "Are You a Creative Commons Musician Looking for a Global Stage?"
+date: 2025-09-17 00:00:00 
+permalink: /2025/09/are-you-creative-commons-musician.html
+thumbnail: https://img.youtube.com/vi/qfnPzWGRQxI/hqdefault.jpg
+excerpt: "Call out for musicians! I'm organizing a unique online streaming music event for October 23rd and 24th"
+tags: ["news"]
+---
+
+<p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/qfnPzWGRQxI" type="text/html" width="640"></iframe></p><p>If you're a musician dedicated to the open culture movement, or you release your work under Creative Commons, I'm organizing a unique online streaming music event for <b>October 23rd and 24th</b>&nbsp;that's designed specifically for you.</p><h3 style="text-align: left;">What's the Opportunity?</h3><p>This is more than just another online show. Our event is going to coincide with this year's online&nbsp;<b>Ubuntu Summit</b>, a major event for the open source community. This is a really unique opportunity to perform for a global audience of people who are already enthusiastic about free and open culture.</p><p>I know from experience how great this community is. My band, Lorenzo's Music, performed at the Ubuntu event in Prague a few years ago, and I even gave a talk there about how we use GitHub to collaborate on music. This is a fantastic chance to connect with a tech-savvy audience that truly understands and supports the open ethos behind your music.</p><h3 style="text-align: left;">We Need You!</h3><p>Right now, I'm looking for musicians and bands who are part of the open source or Creative Commons culture to participate. All you need to do right now is let me know you're interested, and we can work out the details later.</p><p>I need to hear from you as soon as you can because the event is coming up fast in October.</p><p><b>Ready to get your music in front of a global, open-minded audience?</b></p><p>👉 <strike>Link to the Musician Submission Form Here</strike> 👈</p><p>Click the link to fill out the form and give me your information. I'll get back to you!</p><p><br /></p>

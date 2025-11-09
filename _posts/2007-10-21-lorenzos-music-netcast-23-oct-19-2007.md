@@ -1,0 +1,8 @@
+---
+title: "Lorenzo's Music Netcast #23 Oct. 19, 2007"
+date: 2007-10-21 00:00:00 
+permalink: /2007/10/lorenzo-music-netcast-23-oct-19-2007_20.html
+thumbnail: http://blip.tv/file/get/Lorenzosmusic-LorenzosMusicNetcast23Oct192007828.mp4.jpg
+---
+
+<center>               <script type="text/javascript" src="http://blip.tv/scripts/pokkariPlayer.js?ver=2007100301"></script><script type="text/javascript" src="http://blip.tv/syndication/write_player?skin=js&amp;posts_id=442414&amp;source=3&amp;autoplay=true&amp;file_type=flv&amp;player_width=&amp;player_height="></script><div id="blip_movie_content_442414"><a rel="enclosure" href="http://blip.tv/file/get/Lorenzosmusic-LorenzosMusicNetcast23Oct192007828.mp4" onclick="play_blip_movie_442414(); return false;"><img alt="Video thumbnail. Click to play" src="http://blip.tv/file/get/Lorenzosmusic-LorenzosMusicNetcast23Oct192007828.mp4.jpg" title="Click to play" border="0" /></a><br /><a rel="enclosure" href="http://blip.tv/file/get/Lorenzosmusic-LorenzosMusicNetcast23Oct192007828.mp4" onclick="play_blip_movie_442414(); return false;">Click to Play</a></div>          </center><div class="blip_description"><p>Lorenzo's Music Netcast #23 Oct. 19, 2007</p><p>Featuring the song "inamorata" </p></div><br /><br /><embed src="http://odeo.com/flash/audio_player_gray.swf" quality="high" width="322" height="54" name="odeo_player_gray" align="middle" allowScriptAccess="always" wmode="transparent"  type="application/x-shockwave-flash" flashvars="type=audio&id=17149383" pluginspage="http://www.macromedia.com/go/getflashplayer" /></embed><br /><a style="font-size: 9px; padding-left: 110px; color: #f39; letter-spacing: -1px; text-decoration: none" href="http://odeo.com/audio/17149383/view">powered by <strong>ODEO</strong></a>

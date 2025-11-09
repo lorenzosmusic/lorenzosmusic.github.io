@@ -1,0 +1,8 @@
+---
+title: "I Love's Me The Podcasting!"
+date: 2005-03-19 00:00:00 
+permalink: /2005/03/i-loves-me-podcasting.html
+thumbnail: http://www.lorenzosmusic.com/bandtraxlogo.gif
+---
+
+<img src="http://www.lorenzosmusic.com/bandtraxlogo.gif" /><br />We are featured in this weeks episode of the "Bandtrax Podcast" at <a href="http://www.bandtrax.net">bandtrax.net</a>. You can download the mp3 <a href="http://www.bandtrax.net/feed/uploads/BandTrax3_18_05.mp3">here</a> or subscribe to the shows feed by right clicking and copying the link <a href="http://www.bandtrax.net/feed/rss.php">here</a> and pasting it in your <a href="http://www.ipodder.org/directory/4/ipodderSoftware">iPodder</a> or <a href="http://ipodderx.com/download">iPodderX</a>.<br /><br />In the past we were also featured in the "Insomnia Radio Podcast" at <a href="http://hardcoreinsomniaradio.blogspot.com">hardcoreinsomniaradio.blogspot.com</a>. You can download that show mp3 <a href="http://libsyn.com/podcasts/insomniaradio/ir20part1.mp3">here</a> or subscribe <a href="http://webpages.charter.net/jevangelho01/IR.xml">here</a>.<br /><br />We love podcasting! You get to hear a bunch of great bands and if you have one I suggest you contact them with your music too, and tell 'em <em>"Lorenzo's Music sent ya!"</em><br /><em></em><br />Now I know some of you are probably saying, "what the hell is Podcasting?" Well you can read a description <a href="http://en.wikipedia.org/wiki/Podcasting">here</a>. Then go to <a href="http://podcastalley.com">Podcastalley.com</a> and subscribe to some shows.
