@@ -14,4 +14,4 @@ We've released a new video "Astronaut" the first single from, ROM-COMM MIXTAPE. 
 <br />
 Check out the video below and subscribe to our <a href="https://goo.gl/KNjqGp" target="_blank">YouTube Page HERE</a>.<br />
 <br />
-<iframe frameborder="0" height="480" src="https://www.youtube.com/embed/GBD2ZugszE8" type="text/html" width="853"></iframe>
+{% include video-embed.html video_id="GBD2ZugszE8" title="Lorenzo's Music Releases New Single “Astronaut” From Their Rom-Com Mixtape" %}

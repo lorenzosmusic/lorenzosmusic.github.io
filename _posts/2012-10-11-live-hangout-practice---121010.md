@@ -6,4 +6,4 @@ thumbnail: https://img.youtube.com/vi/L6YLRBXZBNw/hqdefault.jpg
 tags: ["video"]
 ---
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/L6YLRBXZBNw" width="420"></iframe>
+{% include video-embed.html video_id="L6YLRBXZBNw" title="Live Hangout Practice - 121010" %}

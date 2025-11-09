@@ -9,7 +9,7 @@ tags: ["video", "Why did I", "videospage", "music-video"]
 
 Watch the video for the song <b>"Why did I"</b> from our <a href="https://www.lorenzosmusic.com/2018/08/rom-comm-mixtape.html" target="_blank">ROM-COMM MIXTAPE</a>. Or watch it on our&nbsp;<a href="https://youtu.be/sG7IgfWjPys" target="_blank">YouTube Channel</a>.<br />
 <br />
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/sG7IgfWjPys" type="text/html" width="640"></iframe><br />
+{% include video-embed.html video_id="sG7IgfWjPys" title="\"Why did I\" Music Video" %}<br />
 <br />
 This video was adapted from an original film<br />
 CHANCE (Short film)<br />

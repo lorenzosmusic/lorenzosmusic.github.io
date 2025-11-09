@@ -8,7 +8,7 @@ tags: ["lorenzos-music-podcast"]
 ---
 
 <div style="text-align: center;">
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/TmxooUembdg" type="text/html" width="640"></iframe>
+{% include video-embed.html video_id="TmxooUembdg" title="S01 Episode 3: Tanner Kahl, L&Uuml;M Music Streaming App - Lorenzo's Music Podcast" %}
 </div>
 <br />
 Listen: <a href="https://itunes.apple.com/us/podcast/lorenzos-music-podcast/id1441923662?mt=2&amp;app=podcast&amp;at=11lMBQ&amp;ct=s01e03lorpost" target="_blank">Apple Podcasts</a> • <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83YTBlMDU0L3BvZGNhc3QvcnNz" target="_blank">Google Podcasts</a> • <a href="https://open.spotify.com/show/41teUSf34DaUAW4Ukk2J7L" target="_blank">Spotify</a> • <a href="https://goo.gl/KNjqGp" target="_blank">Youtube</a> • <a href="https://radiopublic.com/lorenzos-music-podcast-WzEEEQ" target="_blank">RadioPublic</a> • <a href="https://www.stitcher.com/podcast/anchor-podcasts/lorenzos-music-podcast" target="_blank">Stitcher</a> • <a href="https://pca.st/WQE7" target="_blank">Pocket Casts</a><br />

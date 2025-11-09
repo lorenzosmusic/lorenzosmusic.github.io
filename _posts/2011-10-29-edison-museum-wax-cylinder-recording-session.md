@@ -6,4 +6,4 @@ thumbnail: https://img.youtube.com/vi/CJXDtrq4McY/hqdefault.jpg
 tags: ["blog"]
 ---
 
-<div>Fascinating. </div><div><br /></div><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/CJXDtrq4McY" width="560"></iframe>
+<div>Fascinating. </div><div><br /></div>{% include video-embed.html video_id="CJXDtrq4McY" title="Edison Museum Wax Cylinder Recording Session" %}

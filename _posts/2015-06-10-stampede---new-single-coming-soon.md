@@ -7,7 +7,7 @@ excerpt: "Sign up for the pre-release of the Lorenzo's Music cover of the song \
 tags: ["video", "biting elbows", "teaser"]
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/I68DGMlszbY?rel=0&amp;showinfo=0" width="100%"></iframe><br />
+{% include video-embed.html video_id="I68DGMlszbY" title="Stampede - New Single Coming soon!" %}<br />
 <br />
 <h3>
 Stampede - Coming soon</h3>

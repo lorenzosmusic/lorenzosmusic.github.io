@@ -7,7 +7,7 @@ excerpt: "Belgian actor Matthias Schoenaerts at a photo shoot in Cannes, while o
 tags: ["news", "video", "videospage"]
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/3xLqayfWa4E?rel=0" width="100%"></iframe><br />
+{% include video-embed.html video_id="3xLqayfWa4E" title="Matthias Schoenaerts Photo Shoot Video" %}<br />
 <br />
 This video shows Belgian actor <b>Matthias Schoenaerts</b> at a photo shoot in Cannes, while our song "<a href="https://lorenzosmusic.bandcamp.com/track/im-not-a-fool" target="_blank">I'm not a fool</a>" plays in the background.<br />
 <br />

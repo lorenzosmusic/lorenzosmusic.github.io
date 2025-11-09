@@ -7,7 +7,7 @@ excerpt: "Watch this video teaser for Lorenzo's Music - Rom-Comm Mixtape"
 tags: ["pre-release", "video", "mixtape"]
 ---
 
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/e_5UaBbHiH0" width="560"></iframe>
+{% include video-embed.html video_id="e_5UaBbHiH0" title="New Mixtape Coming Soon..." %}
 
 <br />
 Get ready for a new 15 song mixtape coming soon...

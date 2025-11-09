@@ -8,7 +8,7 @@ tags: ["blog", "spaghetti mid-western", "live-video", "YouTube"]
 ---
 
 <div style="text-align: center;">
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/JmsoUMaG_Pc" width="640"></iframe><br /></div>
+{% include video-embed.html video_id="JmsoUMaG_Pc" title="Spaghetti Mid-Western YouTube Live Listening Stream" %}<br /></div>
 <b>Wednesday, Feb 19, 2020</b>, we will be <a href="https://youtu.be/JmsoUMaG_Pc" target="_blank">streaming our EP "Spaghetti Mid-Western", live on our YouTube Channel</a>.<br />
 <br />
 We will be hanging out over <a href="https://youtu.be/JmsoUMaG_Pc" target="_blank">YouTube Live</a> in our rehearsal studio in Madison, WI while playing the new EP. Tune in and chat with us!<br />

@@ -12,11 +12,11 @@ Here's one that was posted on YouTube over Halloween, and you know what we reali
 <br />
 It's by <a href="http://www.youtube.com/user/sasakiasahi" target="_blank">AsahiSasaki</a> she shows off some different&nbsp;Halloween&nbsp;costumes to our song "<a href="http://lorenzosmusic.bandcamp.com/track/i-wont-go">I Won't Go</a>".<br />
 <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/gTHGX4o2SeM" width="560"></iframe><br />
+{% include video-embed.html video_id="gTHGX4o2SeM" title="Woman Models Halloween Costumes To Our Music" %}<br />
 <br />
 <!--more--><br /><br />
 And she did a second one to the song "<a href="http://lorenzosmusic.bandcamp.com/track/im-doing-fine">I'm Doing Fine</a>" with Disney, comics &amp; movie themed costumes.<br />
 <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/DJfDzdGjhAk" width="560"></iframe><br />
+{% include video-embed.html video_id="DJfDzdGjhAk" title="Woman Models Halloween Costumes To Our Music" %}<br />
 <br />
 Hot damn right?!

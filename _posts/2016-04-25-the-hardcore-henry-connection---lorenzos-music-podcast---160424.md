@@ -39,7 +39,7 @@ I was so interested in his music <b>we decided to do a cover of their song "The 
 <br />
 <h4>
 Here is the original video by Biting Elbows</h4>
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/QYm-dT24iRY?rel=0" width="640"></iframe><br />
+{% include video-embed.html video_id="QYm-dT24iRY" title="The Hardcore Henry Connection - Lorenzo's Music Podcast - 160424" %}<br />
 <br />
 <h4>
 Below is our version</h4>

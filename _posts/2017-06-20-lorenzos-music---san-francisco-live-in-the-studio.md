@@ -7,7 +7,7 @@ excerpt: "Live performance of the song San Francisco by Art Rock band Lorenzo's 
 tags: ["video", "live-video"]
 ---
 
-<iframe frameborder="0" height="480" src="https://www.youtube.com/embed/CnYfbNzUGTs?rel=0" type="text/html" width="853"></iframe> <br />
+{% include video-embed.html video_id="CnYfbNzUGTs" title="Lorenzo's Music - San Francisco (Live in the studio)" %} <br />
 Performing the song "San Francisco" live in their recording studio.<br />
 <br />
 The lyrics for this song were written from a taped discussion that Tom had with a friend while driving in his car one night.<br />

@@ -6,7 +6,7 @@ thumbnail: https://img.youtube.com/vi/RWzX0UPGrIc/hqdefault.jpg
 tags: ["video"]
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/RWzX0UPGrIc" width="560"></iframe>
+{% include video-embed.html video_id="RWzX0UPGrIc" title="A Musical Compilation of Bike Crashes" %}
 
 <br />
 Our music gets used in a lot of skateboarding and bike videos, even once in a <a href="http://www.lorenzosmusic.com/2012/04/crazy-pogopalooza-8-video-using-our.html" target="">pogo competition</a>.<br />

@@ -11,7 +11,7 @@ tags: ["astronaut", "playlist", "inspiration", "YouTube"]
 <img border="0" data-original-height="1400" data-original-width="1400" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimX29qr_flvpoiN0Y1AQe3ppAKNUoyIoKKKvcgKiQycQ7RtQZFP8wvSwqJCgTyufGieFV1UrenYw3qABpKCQn1cYFRz2pG1il6jnmI5qJ3OU9K_Q3XZGKSgFS8NJOgD8gul_xL/s200/com-rom-astronaut.jpg" width="200" /></div>
 <h2 style="text-align: center;">
 Lorenzo's Music Radio Playlist Vol. 1</h2>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/videoseries?list=PLbvJrJ34c9MlwMhmmdp2n6j08IFYjJpg_" width="640"></iframe><br />
+{% include video-embed.html video_id="videoseries" title="Astronaut: Song Inspiration Playlist" %}<br />
 I was watching the documentary <b>Hip Hop Evolution</b> and one of the things I thought was really cool was how people were building songs off of a sample they found. Hunting down old records to find something that might inspire their next idea hidden in one of the tracks.<br />
 <br />
 I realized that we <i>kinda</i> do the same thing?<br />

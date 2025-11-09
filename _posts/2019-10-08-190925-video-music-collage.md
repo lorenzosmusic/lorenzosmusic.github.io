@@ -7,7 +7,7 @@ excerpt: "Part of a series we are working on. The concept is a song from a video
 tags: ["studio", "video-collage", "video"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/Kl9Cf61_aoI" type="text/html" width="640"></iframe>
+{% include video-embed.html video_id="Kl9Cf61_aoI" title="190925 Video Music Collage" %}
 
 <br />
 Part of a series we are working on. The concept is a song from a video music collage.<br />

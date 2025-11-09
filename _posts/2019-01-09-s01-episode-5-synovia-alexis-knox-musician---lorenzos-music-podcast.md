@@ -7,7 +7,7 @@ excerpt: "Tom Ray from Lorenzo's Music and Synovia Alexis chat about self publis
 tags: ["lorenzos-music-podcast"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/bE0sGCcPazg" type="text/html" width="640"></iframe><br />
+{% include video-embed.html video_id="bE0sGCcPazg" title="S01 Episode 5: Synovia Alexis Knox, Musician - Lorenzo's Music Podcast" %}<br />
 Listen: <a href="https://itunes.apple.com/us/podcast/lorenzos-music-podcast/id1441923662?mt=2&amp;app=podcast&amp;at=11lMBQ&amp;ct=s01e05lorpost" target="_blank">Apple Podcasts</a> • <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83YTBlMDU0L3BvZGNhc3QvcnNz">Google Podcasts</a> • <a href="https://open.spotify.com/show/41teUSf34DaUAW4Ukk2J7L">Spotify</a> • <a href="https://goo.gl/KNjqGp">Youtube</a> • <a href="https://radiopublic.com/lorenzos-music-podcast-WzEEEQ">RadioPublic</a> • <a href="https://www.stitcher.com/podcast/anchor-podcasts/lorenzos-music-podcast">Stitcher</a> • <a href="https://pca.st/WQE7">Pocket Casts</a> <br />
 <br />
 This time I meet musician, <b>Synovia Alexis</b> from right here in Madison WI. She has a new self-made release out now called "SIgnature".<br />

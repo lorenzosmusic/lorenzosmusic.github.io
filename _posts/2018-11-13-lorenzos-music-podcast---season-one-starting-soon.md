@@ -7,7 +7,7 @@ excerpt: "The Lorenzo's Music Podcast. First season starting soon!"
 tags: ["lorenzos-music-podcast"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/3f-_cW2HK60" type="text/html" width="640"></iframe> We're starting a new podcast and I thought I would tell you a little bit about what it is and what to expect. I got an idea. I wanted to meet other artists musicians or people that create things in general. I was curious about what the people that listened to us do creatively. So I sent out an open invitation to our email list asking anyone if they wanted to come&nbsp;and talk about what they do.<br />
+{% include video-embed.html video_id="3f-_cW2HK60" title="Lorenzo's Music Podcast - Season One Starting Soon" %} We're starting a new podcast and I thought I would tell you a little bit about what it is and what to expect. I got an idea. I wanted to meet other artists musicians or people that create things in general. I was curious about what the people that listened to us do creatively. So I sent out an open invitation to our email list asking anyone if they wanted to come&nbsp;and talk about what they do.<br />
 <br />
 I met other musicians, music curators, video streamers, filmmakers from all over the world.<br />
 <br />

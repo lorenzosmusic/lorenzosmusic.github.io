@@ -7,7 +7,7 @@ excerpt: "Lorenzo's Music Performing Fervor Live in studio"
 tags: ["fervor", "video", "live-video"]
 ---
 
-<iframe frameborder="0" height="315" src="https://www.youtube.com/embed/-hu69YM-PCg" type="text/html" width="560"></iframe>
+{% include video-embed.html video_id="-hu69YM-PCg" title="Fervor (Live in studio video)" %}
 
 <br />
 Live performance of the song "Fervor" from the album BAZAR<br />

@@ -7,7 +7,7 @@ excerpt: "Musician Dominic Francisco of Gilman Mom on the Lorenzo's Music Podcas
 tags: ["lorenzos-music-podcast"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/DGnmEqTUS4Q" type="text/html" width="640"></iframe><br />
+{% include video-embed.html video_id="DGnmEqTUS4Q" title="S01 Episode 4: Dominic Francisco, Musician, Gilman Mom - Lorenzo's Music Podcast" %}<br />
 <div>
 Listen: <a href="https://itunes.apple.com/us/podcast/lorenzos-music-podcast/id1441923662?mt=2&amp;app=podcast&amp;at=11lMBQ&amp;ct=s01e04lorpost" target="_blank">Apple Podcasts</a> • <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83YTBlMDU0L3BvZGNhc3QvcnNz" target="_blank">Google Podcasts</a> • <a href="https://open.spotify.com/show/41teUSf34DaUAW4Ukk2J7L" target="_blank">Spotify</a> • <a href="https://goo.gl/KNjqGp" target="_blank">Youtube</a> • <a href="https://radiopublic.com/lorenzos-music-podcast-WzEEEQ" target="_blank">RadioPublic</a> • <a href="https://www.stitcher.com/podcast/anchor-podcasts/lorenzos-music-podcast" target="_blank">Stitcher</a> • <a href="https://pca.st/WQE7" target="_blank">Pocket Casts</a>&nbsp;</div>
 <div>

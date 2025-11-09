@@ -11,5 +11,5 @@ He says it's a "piece [he] did for a pacing assignment in TV Production class."<
 <br />
 While our song "<a href="http://lorenzosmusic.bandcamp.com/track/just-had-to-let-you-know">Just had to let you know</a>" plays in the background he passes the night, drinking, watching tv and of course declares his love for a stuffed animal?<br />
 <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/HgH6CBZfzPM?rel=0" width="560"></iframe><br />
+{% include video-embed.html video_id="HgH6CBZfzPM" title="Would this be considered a \"Furry\" video?" %}<br />
 <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=HgH6CBZfzPM">Just Had to Let You Know - YouTube</a>:

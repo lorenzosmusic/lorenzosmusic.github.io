@@ -7,7 +7,7 @@ excerpt: "Lorenzo's Music and Brother Rye Dec. 15 at The Frequency in Madison, W
 tags: ["shows"]
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/videoseries?list=PLbvJrJ34c9MmsvCJJYOFHkirkToU-_wQ5" width="675"></iframe><br />
+{% include video-embed.html video_id="videoseries" title="Video Setlist For December Show At The Frequency In Madison" %}<br />
 <h3>
 Thursday, Dec. 15 at <b>The Frequency</b> in Madison, WI</h3>
 <script type="text/javascript"> window.cashmusic.embed('https://cashmusic.org/public','10916');</script>

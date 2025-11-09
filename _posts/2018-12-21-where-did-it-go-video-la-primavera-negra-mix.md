@@ -9,7 +9,7 @@ tags: ["video", "Where did it go", "videospage", "music-video"]
 
 Watch the video for the song "Where did it go" featuring Ballet dancer Jackson Carroll performing a mesmerizing neo-noir dance.<br />
 <br />
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/dzSYUBEkoW4" type="text/html" width="640"></iframe>
+{% include video-embed.html video_id="dzSYUBEkoW4" title="\"Where did it go\" Video (La Primavera Negra Mix)" %}
 
 <br />
 <br />

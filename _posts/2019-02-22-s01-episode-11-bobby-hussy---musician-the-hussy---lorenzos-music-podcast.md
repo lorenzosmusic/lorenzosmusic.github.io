@@ -7,7 +7,7 @@ excerpt: "Tom Ray from the band Lorenzo's Music interviews musician and indie la
 tags: ["Bobby Hussy", "lorenzos-music-podcast"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/WCLQMjemFJ4" type="text/html" width="640"></iframe><br />
+{% include video-embed.html video_id="WCLQMjemFJ4" title="S01 Episode 11: Bobby Hussy - Musician, The Hussy - Lorenzo's Music Podcast" %}<br />
 Listen: <a href="https://itunes.apple.com/us/podcast/lorenzos-music-podcast/id1441923662?mt=2&amp;app=podcast&amp;at=11lMBQ&amp;ct=s01e11lorpost" target="_blank">Apple Podcasts</a> • <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83YTBlMDU0L3BvZGNhc3QvcnNz">Google Podcasts</a> • <a href="https://open.spotify.com/show/41teUSf34DaUAW4Ukk2J7L">Spotify</a> • <a href="https://goo.gl/KNjqGp">Youtube</a> • <a href="https://radiopublic.com/lorenzos-music-podcast-WzEEEQ">RadioPublic</a> • <a href="https://www.stitcher.com/podcast/anchor-podcasts/lorenzos-music-podcast">Stitcher</a> • <a href="https://pca.st/WQE7">Pocket Casts</a><br />
 <br />
 <b>The Hussy</b> is a band here in Madison, WI with Bobby Hussy, Heather Hussy, Tyler Fassnacht.<br />

@@ -8,7 +8,7 @@ tags: ["shows", "video"]
 ---
 
 <div style="text-align: center;">
-<iframe frameborder="0" height="315" src="https://www.youtube.com/embed/LsTqiSyoAEw?loop=1&amp;rel=0" type="text/html" width="560"></iframe><br /></div>
+{% include video-embed.html video_id="LsTqiSyoAEw" title="Show: Lorenzo's Music, Negative Example & Boo Bradley" %}<br /></div>
 <br />
 Madison people, we have a show this weekend!<br />
 Friday, Jan 26th<br />

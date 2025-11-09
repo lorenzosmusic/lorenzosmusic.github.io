@@ -48,6 +48,6 @@ Video Mix Tape Songs:</div>
 <li>"I Never Wanted to Say" by <b>Lorenzo's Music</b></li>
 </ol>
 <div>
-<iframe allowfullscreen="" frameborder="0" height="400" src="https://www.youtube.com/embed/videoseries?list=PLbvJrJ34c9MkuSqI_TBALPk5iQO2kNDpa" width="100%"></iframe><br />
+{% include video-embed.html video_id="videoseries" title="I Never Wanted to Say - Song Reference Playlist" %}<br />
 <br />
 - Tom</div>

@@ -7,7 +7,7 @@ excerpt: "Tom from the band Lorenzo's Music talks with musician Ashlinn Nash of 
 tags: ["lorenzos-music-podcast"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/UTomdVHLDjg" type="text/html" width="640"></iframe><br />
+{% include video-embed.html video_id="UTomdVHLDjg" title="S01 Episode 7: Ashlinn Nash, Musician, Cyberwaste - Lorenzo's Music Podcast" %}<br />
 Listen: <a href="https://itunes.apple.com/us/podcast/lorenzos-music-podcast/id1441923662?mt=2&amp;app=podcast&amp;at=11lMBQ&amp;ct=s01e07lorpost" target="_blank">Apple Podcasts</a> • <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83YTBlMDU0L3BvZGNhc3QvcnNz">Google Podcasts</a> • <a href="https://open.spotify.com/show/41teUSf34DaUAW4Ukk2J7L">Spotify</a> • <a href="https://goo.gl/KNjqGp">Youtube</a> • <a href="https://radiopublic.com/lorenzos-music-podcast-WzEEEQ">RadioPublic</a> • <a href="https://www.stitcher.com/podcast/anchor-podcasts/lorenzos-music-podcast">Stitcher</a> • <a href="https://pca.st/WQE7">Pocket Casts</a><br />
 <br />
 One person that contacted me about being on the podcast was an electronica musician from England.<br />

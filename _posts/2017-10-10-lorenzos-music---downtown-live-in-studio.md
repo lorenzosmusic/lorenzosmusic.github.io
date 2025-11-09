@@ -7,7 +7,7 @@ excerpt: "Watch a live performance of the song \"Downtown\" by Lorenzo's Music"
 tags: ["video", "live-video"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/U0tKImWII8Q?rel=0" type="text/html" width="640"></iframe>
+{% include video-embed.html video_id="U0tKImWII8Q" title="Lorenzo's Music - Downtown (Live in studio)" %}
 
 <br />
 <span style="background-color: white; font-family: &quot;merriweather&quot; , &quot;georgia&quot; , serif; font-size: 16px;">Watch this live performance&nbsp;of the song&nbsp;</span><b style="background-color: white; box-sizing: inherit; font-family: Merriweather, Georgia, serif; font-size: 16px;">"Downtown"</b><span style="background-color: white; font-family: &quot;merriweather&quot; , &quot;georgia&quot; , serif; font-size: 16px;">&nbsp;in our recording studio.</span><br />

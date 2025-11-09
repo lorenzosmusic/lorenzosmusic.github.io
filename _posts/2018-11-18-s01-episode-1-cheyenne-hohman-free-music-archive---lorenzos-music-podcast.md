@@ -7,7 +7,7 @@ excerpt: "Talking to Cheyenne Hohman of the Free Music Archive about what they u
 tags: ["free music archive", "season-one", "lorenzos-music-podcast"]
 ---
 
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/KnPLZf-ROgc" type="text/html" width="640"></iframe><br />
+{% include video-embed.html video_id="KnPLZf-ROgc" title="S01 Episode 1: Cheyenne Hohman, Free Music Archive - Lorenzo's Music Podcast" %}<br />
 This is the first episode of our new podcast. The Lorenzo’s Music Podcast. This is a show about people who make music, promote music or video or people who like to make things. Stuff like that.<br />
 <br />
 This Episode I talk to Cheyenne Hohman from the <b>Free Music Archive,</b>&nbsp;a site that has been one of the biggest sources where people have discovered music that is free to use in&nbsp;videos, films, mobile app projects and more.<br />
