@@ -4,6 +4,8 @@ date: 2025-10-30 00:00:00
 permalink: /2025/10/melancholy-friction-for-too-long.html
 thumbnail: https://img.youtube.com/vi/7j89HylHw7w/hqdefault.jpg
 excerpt: "Lyric video for our remix of \"Melancholy friction\" from our album \"Lorenzo's Remixes, Volume 2\""
+categories: [videos]
+behind_scenes_url: "/2025/10/remixing-melancholy-friction.html"
 tags: ["Melancholy friction", "Lorenzo's Remixes Vol 2", "music-video", "videospage"]
 ---
 
