@@ -3,7 +3,7 @@ title: "Remixing \"Melancholy friction\" with Ardour & Ubuntu Studio - Open-Sour
 date: 2025-10-14 00:00:00 
 permalink: /2025/10/remixing-melancholy-friction.html
 thumbnail: https://img.youtube.com/vi/myJ-0C6bwMo/hqdefault.jpg
-excerpt: "I go through the creative process of remixing our song \"Melancholy Friction\" featured on our album, Lorenzo's Remixes, Volume 2."
+excerpt: "I go through the creative process of remixing our song \"Melancholy Friction\" featured on our album, Lorenzo's Remixes, Volume 2"
 tags: ["blog", "behind-the-scenes", "songwriting", "Melancholy friction"]
 ---
 
