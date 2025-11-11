@@ -6,15 +6,15 @@ live_show_url: "/live-show"
 
 # Featured Video (optional - remove this section if not using)
 featured_video:
-  title: "Butt If I was alone (Da Dun & I Mix) (Walk Cycle Lyric Video)"
-  description: "The unique animation for this video is based on a walk cycle reel by the talented artist **Cento Lodigiani**, released under a CC-BY Creative Commons license."
-  date: "2025-08-19"
-  duration: "3:45"
-  embed_url: "https://www.youtube.com/embed/9t9hnitkx4s"
+  title: "Melancholy friction (For too long manifesto mix) Lyric Video"
+  description: "Melancholy friction (For too long manifesto mix). A Lyric music video for the album Lorenzo's Remixes, Volume 2"
+  date: "2025-10-30"
+  duration: "2:44"
+  embed_url: "https://www.youtube.com/embed/7j89HylHw7w"
 
 # Music Videos
 music_videos:
-  - title: "Butt Friction tango (Stage Tango Lyric Video)"
+  - title: "Friction tango (Stage Tango Lyric Video)"
     date: "2024-01-15"
     duration: "3:45"
     description: "Friction tango by Lorenzo's Music is a song from their experimental movie soundtrack project."
@@ -71,13 +71,13 @@ categories:
   - title: "Music Videos"
     description: "Official music videos and lyric videos"
     icon: "🎵"
-    video_count: "34"
+    video_count: "37"
     url: "https://youtube.com/playlist?list=PLbvJrJ34c9MmrB4PBX9QocLRM8lLhndLe"
   
   - title: "Behind the Scenes"
     description: "Recording sessions and making-of content"
     icon: "🎬"
-    video_count: "23"
+    video_count: "27"
     url: "https://youtube.com/playlist?list=PLbvJrJ34c9MlmKmnsLSXdppcqWBFk0ff8"
   
   # - title: "Live Performances"
@@ -89,7 +89,7 @@ categories:
   - title: "Live Shows"
     description: "The Live & Unfiltered Show episodes"
     icon: "🎥"
-    video_count: "60"
+    video_count: "58"
     url: "/live-show"
   
 #   - title: "Gear & Equipment"
