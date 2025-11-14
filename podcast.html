@@ -54,7 +54,8 @@ subtitle: Lorenzo's Music Podcast
                         {% if post.episode_number %}
                         <span class="episode-number">Episode {{ post.episode_number }}</span>
                         {% else %}
-                        <span class="episode-number">Episode {{ forloop.index }}</span>
+                        {% assign episode_num = podcast_posts.size | minus: forloop.index | plus: 1 %}
+                        <span class="episode-number">Episode {{ episode_num }}</span>
                         {% endif %}
                         <span class="episode-date">{{ post.date | date: "%Y-%m-%d" }}</span>
                     </div>
