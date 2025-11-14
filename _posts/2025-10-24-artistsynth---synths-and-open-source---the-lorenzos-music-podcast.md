@@ -4,6 +4,10 @@ date: 2025-10-24 00:00:00
 permalink: /2025/10/artistsynth-synths-and-open-source.html
 thumbnail: https://img.youtube.com/vi/m6vBo0aSbak/hqdefault.jpg
 excerpt: "I meet with Jonatan Galindo Alvarez, also known as ArtistSynth"
+guest: "Jonatan Galindo Alvarez"
+audio_url: "https://creators.spotify.com/pod/profile/lorenzosmusic/episodes/Artistsynth---Synths-and-Open-Source-e39trjb/a-ac7odoj"
+transcript_url: "/podcast/episode-artistsynth-transcript"
+categories: [podcast]
 tags: ["lorenzos-music-podcast", "podcast", "Artistsynth"]
 ---
 

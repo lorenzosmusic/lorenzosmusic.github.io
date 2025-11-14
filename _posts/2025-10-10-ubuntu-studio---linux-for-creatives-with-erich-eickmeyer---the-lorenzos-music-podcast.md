@@ -4,6 +4,10 @@ date: 2025-10-10 00:00:00
 permalink: /2025/10/ubuntu-studio-linux-for-creatives.html
 thumbnail: https://img.youtube.com/vi/i39125kfjfQ/hqdefault.jpg
 excerpt: "In this episode of The Lorenzo's Music Podcast, I talk with Erich Eickmeyer, the project leader of Ubuntu Studio"
+guest: "Erich Eickmeyer"
+audio_url: "https://creators.spotify.com/pod/profile/lorenzosmusic/episodes/Ubuntu-Studio---Linux-for-Creatives-with-Erich-Eickmeyer-e394vh5/a-ac6ntgd"
+transcript_url: "/podcast/episode-ubuntu-studio-transcript"
+categories: [podcast]
 tags: ["lorenzos-music-podcast", "podcast", "ubuntu-studio", "Erich Eickmeyer"]
 ---
 

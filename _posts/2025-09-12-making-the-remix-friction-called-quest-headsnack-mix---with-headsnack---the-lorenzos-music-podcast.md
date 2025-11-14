@@ -4,6 +4,10 @@ date: 2025-09-12 00:00:00
 permalink: /2025/09/making-remix-friction-called-quest-headsnack.html
 thumbnail: https://img.youtube.com/vi/fmX27lWFvxc/hqdefault.jpg
 excerpt: "I talk with Headsnack, a music producer and DJ, who recently remixed our track \"Friction Called Quest\""
+guest: "Headsnack"
+audio_url: "https://creators.spotify.com/pod/profile/lorenzosmusic/episodes/Making-The-Remix-Friction-called-quest-Headsnack-Mix---With-Headsnack-e381e10/a-ac5a25p"
+transcript_url: "/podcast/episode-remix-headsnack-transcript"
+categories: [podcast]
 tags: ["lorenzos-music-podcast", "podcast", "Headsnack", "Friction called quest", "behind-the-scenes", "blog"]
 ---
 

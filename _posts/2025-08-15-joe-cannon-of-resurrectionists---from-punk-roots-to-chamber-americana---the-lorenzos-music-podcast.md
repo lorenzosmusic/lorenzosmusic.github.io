@@ -4,6 +4,10 @@ date: 2025-08-15 00:00:00
 permalink: /2025/08/joe-cannon-of-resurrectionists.html
 thumbnail: https://img.youtube.com/vi/FgWR3eB3Y_w/hqdefault.jpg
 excerpt: "In this episode of the podcast, I talk with Joe Cannon of the band Resurrectionists from Milwaukee"
+guest: "Joe Cannon"
+audio_url: "https://creators.spotify.com/pod/profile/lorenzosmusic/episodes/Joe-Cannon-of-Resurrectionists---From-Punk-Roots-to-Chamber-Americana-e36pt87/a-ac3ntou"
+transcript_url: "/podcast/episode-resurrectionists-transcript"
+categories: [podcast]
 tags: ["lorenzos-music-podcast", "podcast", "Joe Cannon", "Resurrectionists"]
 ---
 

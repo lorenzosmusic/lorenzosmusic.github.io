@@ -4,6 +4,9 @@ date: 2025-09-26 00:00:00
 permalink: /2025/09/making-remix-axwax.html
 thumbnail: https://img.youtube.com/vi/n3yBjfV-4ss/hqdefault.jpg
 excerpt: "In this episode, I talk with musician AxWax about his remix of the track 'If I Was Alone'"
+guest: "AxWax"
+audio_url: "https://creators.spotify.com/pod/profile/lorenzosmusic/episodes/Making-The-Remix-AxWax-and-The-Making-of-If-I-Was-Alone-e38kssb/a-ac6318n"
+categories: [podcast]
 tags: ["lorenzos-music-podcast", "podcast", "behind-the-scenes", "AxWax", "If I was alone", "blog"]
 ---
 

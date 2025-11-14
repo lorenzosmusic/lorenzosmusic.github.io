@@ -4,6 +4,10 @@ date: 2025-08-29 00:00:00
 permalink: /2025/08/velcro-mary-remix-friction-called-quest.html
 thumbnail: https://img.youtube.com/vi/9MVVBCKbw0o/hqdefault.jpg
 excerpt: "I talk with Jason Erb from Velcro Mary about remixing our song \"Friction Called Quest\" for our \"Lorenzo's Remixes, Volume 2\" album"
+guest: "Jason Erb"
+audio_url: "https://creators.spotify.com/pod/profile/lorenzosmusic/episodes/Making-The-Remix---Friction-called-quest-All-That-Time-Mix---With-Velcro-Mary-e3796hb/a-ac4bj1a"
+transcript_url: "/podcast/episode-remix-velcro-mary-transcript"
+categories: [podcast]
 tags: ["lorenzos-music-podcast", "podcast", "Velcro Mary", "behind-the-scenes", "blog", "Friction called quest"]
 ---
 
