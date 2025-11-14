@@ -34,10 +34,18 @@ expectations:
 
 # Latest Episodes (add your recent episodes here)
 episodes:
+  - title: "Watch what happens - Live band practice - ep57"
+    date: "2025-11-05"
+    duration: "32:48"
+    description: "The band thinks about TV characters you never see and Cliff shows he can play the Mario bass line. After playing a few songs the band works on the song idea \"Down it goes\"."
+    thumbnail: "https://i.ytimg.com/vi/8sB4oveps0o/maxresdefault.jpg"
+    youtube_url: "https://www.youtube.com/watch?v=8sB4oveps0o&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
+    youtube_music_url: "https://music.youtube.com/watch?v=8sB4oveps0o"
+
   - title: "How should it go live Band Practice Stream - ep56"
     date: "2025-10-29"
     duration: "30:55"
-    description: "Recap the Ubuntu Summit stream, Tom talks about a weird phone conversation he heard. We work more on a song idea called Until Now."
+    description: "Recap the Ubuntu Summit stream, Tom talks about a weird phone conversation he heard. We work more on a song idea called \"Down it goes\"."
     thumbnail: "https://i.ytimg.com/vi/1RvMR5z1UMo/maxresdefault.jpg"
     youtube_url: "https://www.youtube.com/watch?v=1RvMR5z1UMo&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
     youtube_music_url: "https://music.youtube.com/watch?v=1RvMR5z1UMo"
@@ -73,14 +81,6 @@ episodes:
     thumbnail: "https://i.ytimg.com/vi/gsH3eLqaA14/maxresdefault.jpg"
     youtube_url: "https://www.youtube.com/watch?v=gsH3eLqaA14&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
     youtube_music_url: "https://music.youtube.com/watch?v=gsH3eLqaA14"
-
-  - title: "How's this go? Band Practice Stream - ep51"
-    date: "2025-09-24"
-    duration: "35:39"
-    description: "Tom questions the Red Bull Slogan, Rob sound like Arnold and Bryan has a bullhorn effect. The band works more on the song Until Now."
-    thumbnail: "https://i.ytimg.com/vi/4nHdaKWS3g8/maxresdefault.jpg"
-    youtube_url: "https://www.youtube.com/watch?v=4nHdaKWS3g8&list=PLbvJrJ34c9Mmx4NdEKeYHSUJsVbO-gJvg"
-    youtube_music_url: "https://music.youtube.com/watch?v=4nHdaKWS3g8"
 
 # How to Watch & Listen Platforms
 platforms:
