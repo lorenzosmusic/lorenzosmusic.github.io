@@ -56,10 +56,10 @@ stats:
   - number: "62"
     label: "Episodes"
   
-  - number: "46"
+  - number: "59" #minus -9 solo episodes
     label: "Guests"
   
-  - number: "1.48k"
+  - number: "1.6k"
     label: "Downloads"
   
   - number: "5"

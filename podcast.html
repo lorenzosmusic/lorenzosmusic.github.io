@@ -34,7 +34,7 @@ subtitle: Lorenzo's Music Podcast
         <h2 class="section-title">Recent Episodes</h2>
         <div class="episodes-grid">
             {% assign podcast_posts = site.posts | where_exp: "post", "post.tags contains 'lorenzos-music-podcast'" | sort: "date" | reverse %}
-            {% for post in podcast_posts limit: 10 %}
+            {% for post in podcast_posts limit: 9 %}
             {% assign thumb = post.thumbnail | default: post.image | default: post.featured_image %}
             {% if thumb contains 'i.ytimg.com' and thumb contains '/default.jpg' %}
                 {% assign thumb = thumb | replace: '/default.jpg', '/hqdefault.jpg' %}
@@ -86,7 +86,11 @@ subtitle: Lorenzo's Music Podcast
         <div class="stats-grid">
             {% for stat in site.data.podcast.stats %}
             <div class="stat-card">
+                {% if stat.label == "Episodes" %}
+                <div class="stat-number">{{ podcast_posts.size }}</div>
+                {% else %}
                 <div class="stat-number">{{ stat.number }}</div>
+                {% endif %}
                 <div class="stat-label">{{ stat.label }}</div>
             </div>
             {% endfor %}
