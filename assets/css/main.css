@@ -1083,12 +1083,8 @@ a:hover {
     z-index: 1;
 }
 
-.placeholder-member {
-    color: var(--washed-out-grey);
-    font-size: 1rem;
-    font-family: 'IBM Plex Mono', monospace;
-    z-index: 2;
-    position: relative;
+.member-photo img {
+    height: -webkit-fill-available;
 }
 
 .member h3 {
